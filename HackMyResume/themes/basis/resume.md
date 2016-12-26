@@ -1,29 +1,31 @@
 Tyler Reitz
 ============
+Email: tdreitz@gmail.com
+Tel: (818) 424-6393
+Web: https://tylerreitz.co
 
-
-
-
-
+Tyler hails from Los Angeles, CA. He has earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io. While his work focuses on front-end development, mostly on focusing on Javascript and React and the blazing speed at which the accompanying ecosystem changes, his non-work interests range widely, including everything from machine learning to lean startups. He could tell you about it, but THAT would be better left for when we meet!
 
 ## SKILLS
 
-  - Web Development: HTML CSS Sass Less Preprocessors PostCSS CSS Modules Javascript ES6 Babel Node React Flux Redux 
+  - Web Development: Javascript CSS HTML 
+  - Javascript: Javascript Node ES6 Frameworks React Webpack 
+  - CSS: PostCSS Sass Less Preprocessors 
 
 ## EMPLOYMENT
 
-### *Front-End Developer (Contract)*, [Essendant](https://www.essendant.com/) (2016-09 — 2016-10)
+### *Front-End Developer*, [ESSENDANT](https://www.essendant.com/) (2016-09 — 2016-10)
 
 National wholesale e-commerce distributor of workplace essentials with consolidated net sales of $5.3 billion
   - Built custom product-grid component using Isotope and jQuery
   - Javascript Development: Implemented IE-9 compatible product grid system on top of Masonry library
 
-### *Front-End Developer (Contract)*, [Notion](https://www.facebook.com/NotionCreativeAgency/) (2016-08 — 2016-09)
+### *Front-End Developer*, [NOTION](https://www.facebook.com/NotionCreativeAgency/) (2016-08 — 2016-09)
 
 A full-service design & development shop catering to small and medium sized business’ digital needs
   - Bootstrapped a medium-sized static site from scratch for integaration with Shopify’s platform
 
-### *Front-End Developer (Contract)*, [MC Sqaured](https://e-mc2.com/) (2016-05 — 2016-07)
+### *Front-End Developer*, [MC SQAURED](https://e-mc2.com/) (2016-05 — 2016-07)
 
 A full-service, integrated agency providing services for clients in real estate, fashion, and lifestyle verticles
   - Built polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS
@@ -32,7 +34,7 @@ A full-service, integrated agency providing services for clients in real estate,
   - Workflow Automation: Node.js Grunt task-runner and the for CI deployment to remote production servers
   - Quality Assurance: Cross-browser testing older, outdated browser like IE 9
 
-### *Front-End Developer (Contract)*, [TRIBUNE PUBLISHING (NYSE: TPUB)](https://e-mc2.com/) (2016-05 — 2016-07)
+### *Front-End Developer*, [TRIBUNE PUBLISHING (NYSE: TPUB)](https://e-mc2.com/) (2016-05 — 2016-07)
 
 Media company w/ 53+ MM unique monthy visitors’s and 335+ MM monthly page views
   - Built responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices
@@ -40,12 +42,12 @@ Media company w/ 53+ MM unique monthy visitors’s and 335+ MM monthly page view
   - HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity
   - Workflow Automation: Gulp task-runners reducing time spent on tedious, error-prone development tasks
 
-### *User Experience Designer (Contract)*, [XIVIC INC.](http://www.xivic.com/) (2015-06 — 2015-10)
+### *User Experience Designer*, [XIVIC INC.](http://www.xivic.com/) (2015-06 — 2015-10)
 
 A digital agency with 150+ employees servicing clients as large as Staples (NASDAQ: SPLS), a publicly traded mega-retailer with $22.492 billion in revenues, and medium-size outfits like Meineke, Umami Burger, and California Closets
   - User Experience: Application of user-centered design methods to translate user needs, business objectives, and technology capabilities in pleasurable and profitable experiences for stakeholders and users
 
-### *User Experience Designer (Contract)*, [SAPIENT NITRO](http://www.sapientnitro.com/en-us.html) (2014-06 — 2014-10)
+### *User Experience Designer*, [SAPIENT NITRO](http://www.sapientnitro.com/en-us.html) (2014-06 — 2014-10)
 
 Sapient Nitro is an integrated digital marketing agency within Sapient (a marketing and consulting company)  with employees totalling ~11.5K and $1.305 billion (2013) in revenues with clients like Starbucks and Target
   - User Experience: Responsible for the navigation, organization, interaction design, and business/user process engineering for Starbucks’s Project Uno initiative
@@ -55,15 +57,15 @@ Sapient Nitro is an integrated digital marketing agency within Sapient (a market
 
 ## EDUCATION
 
-### Bloc.io (2015-01 — 2016-01)
+### [Bloc.io](http://bloc.io/) (2015-01 — 2016-01)
 
 
 
-### General Assembly (2014-03 — 2014-05)
+### [General Assembly](https://generalassemb.ly/) (2014-03 — 2014-05)
 
 
 
-### University of California, Los Angeles (2007-06 — 2009-08)
+### [University of California, Los Angeles](http://www.ucla.edu/) (2007-06 — 2009-08)
 
 
 
