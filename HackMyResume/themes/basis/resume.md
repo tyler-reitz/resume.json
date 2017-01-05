@@ -4,7 +4,7 @@ Email: tdreitz@gmail.com
 Tel: (818) 424-6393
 Web: https://tylerreitz.co
 
-Tyler hails from Los Angeles, CA. He has earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io. While his work focuses on front-end development, mostly on focusing on Javascript and React and the blazing speed at which the accompanying ecosystem changes, his non-work interests range widely, including everything from machine learning to lean startups. He could tell you about it, but THAT would be better left for when we meet!
+Tyler hails from Los Angeles, CA. He’s earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to lean startups.
 
 ## SKILLS
 
@@ -70,6 +70,36 @@ Sapient Nitro is an integrated digital marketing agency within Sapient (a market
 
 
 
+
+## SAMPLES
+
+### Notion – CUSP (2016-01)
+
+Shopify site
+
+### [Essendant Smart Deals](https://github.com/tylerreitz/essendant) (2016-01)
+
+Product Grid
+
+### [1700 South Harbor](http://1700southharbor.com/) (2015-01)
+
+Hotel micro-site
+
+### [Anabella Hotel](http://1030westkatella.com/) (2015-01)
+
+Hotel micro-site
+
+### [Red Cherry Lashes](https://shopredcherry.com/) (2015-01)
+
+Produced a bespoke e-commerce client-side app using Backbone.js
+
+### Tribune Publishing (2015-01)
+
+Produced web artifacts in relation to TPUB's direct response efforts
+
+### [Bloc Jams](https://github.com/tylerreitz/bloc-jams-angular) (2014-01)
+
+An rdio clone built with Angluar 1.x
 
 
 

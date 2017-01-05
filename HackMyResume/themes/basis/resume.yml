@@ -1,27 +1,13 @@
+name: 'Tyler Reitz'
 meta:
   format: FRESH@0.6.0
   version: 0.1.0
-name: 'Tyler Reitz'
 info:
   label: 'Front-End Developer'
   class: 'Web Developer'
-  brief: 'Tyler hails from Los Angeles, CA. He has earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io. While his work focuses on front-end development, mostly on focusing on Javascript and React and the blazing speed at which the accompanying ecosystem changes, his non-work interests range widely, including everything from machine learning to lean startups. He could tell you about it, but THAT would be better left for when we meet!'
+  brief: 'Tyler hails from Los Angeles, CA. He’s earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to lean startups.'
   image: profile.jpeg
   quote: 'ship it'
-disposition:
-  travel: 20
-  authorization: citizen
-  commitment:
-    - contract
-    - permanent
-    - full-time
-  remote: true
-  relocation:
-    willing: open
-    destinations:
-      - 'San Francisco'
-      - Chicago
-      - 'New York'
 contact:
   website: 'https://tylerreitz.co'
   phone: '(818) 424-6393'
@@ -33,6 +19,32 @@ location:
   country: US
   code: '90013'
   address: '430 S. Broadway'
+social:
+  -
+    label: Twitter
+    network: Twitter
+    url: 'https://twitter.com/tyler_the_dvlpr'
+    user: '@tyler_the_dvlpr'
+  -
+    label: Github
+    network: Github
+    url: 'https://github.com/tylerreitz'
+    user: /tylerreitz
+  -
+    label: Codepen
+    network: Codepen
+    url: 'https://codepen.io/tyler-reitz/'
+    user: /tyler-reitz
+  -
+    label: Angellist
+    network: Angellist
+    url: 'https://angel.co/tyler-reitz'
+    user: /tyler-reitz
+  -
+    label: LinkedIn
+    network: LinkedIn
+    url: 'https://linkedin.com/in/tylerreitz'
+    user: /tylerreitz
 employment:
   summary: '2+ years Front-End Development experience in startups, agencies, and enterprise.'
   history:
@@ -297,32 +309,111 @@ skills:
       level: Master
       years: 2
       proof: 'https://github.com/tylerreitz'
-social:
+samples:
   -
-    label: Twitter
-    network: Twitter
-    url: 'https://twitter.com/tyler_the_dvlpr'
-    user: '@tyler_the_dvlpr'
+    title: 'Notion – CUSP'
+    summary: 'Shopify site'
+    date: '2016'
+    highilights: []
+    keywords:
+      - Javascript
+      - Sass
+      - Node
+      - Javascript
+      - CSS
+      - Shopify
   -
-    label: Github
-    network: Github
-    url: 'https://github.com/tylerreitz'
-    user: /tylerreitz
+    title: 'Essendant Smart Deals'
+    summary: 'Product Grid'
+    url: 'https://github.com/tylerreitz/essendant'
+    date: '2016'
+    highilights: []
+    keywords:
+      - jQuery
+      - Isotope.js
+      - Javascript
+      - CSS
+      - Gulp
   -
-    label: Codepen
-    network: Codepen
-    url: 'https://codepen.io/tyler-reitz/'
-    user: /tyler-reitz
+    title: '1700 South Harbor'
+    summary: 'Hotel micro-site'
+    url: 'http://1700southharbor.com/'
+    date: '2015'
+    highilights: []
+    keywords:
+      - Backbone
+      - Less
+      - Node
+      - Javascript
+      - CSS
+      - PHP
+      - Laravel
+      - MVC
   -
-    label: Angellist
-    network: Angellist
-    url: 'https://angel.co/tyler-reitz'
-    user: /tyler-reitz
+    title: 'Anabella Hotel'
+    summary: 'Hotel micro-site'
+    url: 'http://1030westkatella.com/'
+    date: '2015'
+    highilights: []
+    keywords:
+      - Backbone
+      - Less
+      - Node
+      - Javascript
+      - CSS
+      - PHP
+      - Laravel
+      - MVC
   -
-    label: LinkedIn
-    network: LinkedIn
-    url: 'https://linkedin.com/in/tylerreitz'
-    user: /tylerreitz
+    title: 'Red Cherry Lashes'
+    summary: 'Produced a bespoke e-commerce client-side app using Backbone.js'
+    url: 'https://shopredcherry.com/'
+    date: '2015'
+    highilights: []
+    keywords:
+      - Backbone
+      - Less
+      - Node
+      - Javascript
+      - CSS
+      - PHP
+      - Laravel
+      - MVC
+  -
+    title: 'Tribune Publishing'
+    summary: 'Produced web artifacts in relation to TPUB''s direct response efforts'
+    date: '2015'
+    highilights: []
+    keywords:
+      - Email
+      - Gulp
+      - Node
+      - Sass
+      - Agile
+  -
+    title: 'Bloc Jams'
+    summary: 'An rdio clone built with Angluar 1.x'
+    url: 'https://github.com/tylerreitz/bloc-jams-angular'
+    date: '2014'
+    highilights: []
+    keywords:
+      - Angular
+      - Grunt
+      - Sass
+disposition:
+  travel: 20
+  authorization: citizen
+  commitment:
+    - contract
+    - permanent
+    - full-time
+  remote: true
+  relocation:
+    willing: open
+    destinations:
+      - 'San Francisco'
+      - Chicago
+      - 'New York'
 languages:
   -
     language: English
