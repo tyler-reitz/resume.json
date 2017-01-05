@@ -324,58 +324,58 @@
 
   "samples": [
     {
-      "title": "Notion – CUSP",
-      "summary": "Shopify site",
+      "title": "CUSP",
+      "summary": "shopify site",
       "date": "2016",
       "highilights": [],
-      "keywords": ["Javascript", "Sass", "Node", "Javascript", "CSS", "Shopify"]
+      "keywords": ["javascript", "sass", "bower", "gulp"]
     },
     {
-      "title": "Essendant Smart Deals",
-      "summary": "Product Grid",
+      "title": "Essendant",
+      "summary": "product-grid",
       "url": "https://github.com/tylerreitz/essendant",
       "date": "2016",
       "highilights": [],
-      "keywords": ["jQuery", "Isotope.js", "Javascript", "CSS", "Gulp"]
+      "keywords": ["javascript", "sass", "gulp", "npm"]
     },
     {
-      "title": "1700 South Harbor",
-      "summary": "Hotel micro-site",
+      "title": "Harbor",
+      "summary": "hotel micro-site",
       "url": "http://1700southharbor.com/",
       "date": "2015",
       "highilights": [],
-      "keywords": ["Backbone", "Less", "Node", "Javascript", "CSS", "PHP", "Laravel", "MVC"]
+      "keywords": ["backbone.js", "less", "php", "laravel"]
     },
     {
-      "title": "Anabella Hotel",
-      "summary": "Hotel micro-site",
+      "title": "Anabella",
+      "summary": "hotel micro-site",
       "url": "http://1030westkatella.com/",
       "date": "2015",
       "highilights": [],
-      "keywords": ["Backbone", "Less", "Node", "Javascript", "CSS", "PHP", "Laravel", "MVC"]
+      "keywords": ["backbone.js", "less", "php", "laravel"]
     },
     {
-      "title": "Red Cherry Lashes",
-      "summary": "Produced a bespoke e-commerce client-side app using Backbone.js",
+      "title": "Red Cherry",
+      "summary": "e-commerce site",
       "url": "https://shopredcherry.com/",
       "date": "2015",
       "highilights": [],
-      "keywords": ["Backbone", "Less", "Node", "Javascript", "CSS", "PHP", "Laravel", "MVC"]
+      "keywords": ["backbone.js", "less", "php", "laravel"]
     },
     {
-      "title": "Tribune Publishing",
-      "summary": "Produced web artifacts in relation to TPUB's direct response efforts",
+      "title": "Trib Pub",
+      "summary": "email + landing pages",
       "date": "2015",
       "highilights": [],
-      "keywords": ["Email", "Gulp", "Node", "Sass", "Agile"]
+      "keywords": ["javascript", "sass", "gulp"]
     },
     {
       "title": "Bloc Jams",
-      "summary": "An rdio clone built with Angluar 1.x",
+      "summary": "angluar Rdio clone",
       "url": "https://github.com/tylerreitz/bloc-jams-angular",
       "date": "2014",
       "highilights": [],
-      "keywords": ["Angular", "Grunt", "Sass"]
+      "keywords": ["angular.js", "grunt", "sass"]
     }
   ],
 
