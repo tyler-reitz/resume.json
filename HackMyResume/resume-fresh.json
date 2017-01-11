@@ -324,14 +324,14 @@
 
   "samples": [
     {
-      "title": "CUSP",
+      "title": "notion",
       "summary": "shopify site",
       "date": "2016",
       "highilights": [],
       "keywords": ["javascript", "sass", "bower", "gulp"]
     },
     {
-      "title": "Essendant",
+      "title": "essendant",
       "summary": "product-grid",
       "url": "https://github.com/tylerreitz/essendant",
       "date": "2016",
@@ -339,7 +339,7 @@
       "keywords": ["javascript", "sass", "gulp", "npm"]
     },
     {
-      "title": "Harbor",
+      "title": "harbor",
       "summary": "hotel micro-site",
       "url": "http://1700southharbor.com/",
       "date": "2015",
@@ -347,7 +347,7 @@
       "keywords": ["backbone.js", "less", "php", "laravel"]
     },
     {
-      "title": "Anabella",
+      "title": "anabella",
       "summary": "hotel micro-site",
       "url": "http://1030westkatella.com/",
       "date": "2015",
@@ -355,7 +355,7 @@
       "keywords": ["backbone.js", "less", "php", "laravel"]
     },
     {
-      "title": "Red Cherry",
+      "title": "red-cherry",
       "summary": "e-commerce site",
       "url": "https://shopredcherry.com/",
       "date": "2015",
@@ -363,14 +363,14 @@
       "keywords": ["backbone.js", "less", "php", "laravel"]
     },
     {
-      "title": "Trib Pub",
+      "title": "trib-pub",
       "summary": "email + landing pages",
       "date": "2015",
       "highilights": [],
       "keywords": ["javascript", "sass", "gulp"]
     },
     {
-      "title": "Bloc Jams",
+      "title": "bloc-jams",
       "summary": "angluar Rdio clone",
       "url": "https://github.com/tylerreitz/bloc-jams-angular",
       "date": "2014",
