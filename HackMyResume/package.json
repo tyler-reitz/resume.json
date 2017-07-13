@@ -1,7 +1,3 @@
 {
-  "devDependencies": {
-    "fresh-theme-bootstrap": "^0.3.2",
-    "fresh-theme-elegant": "^0.1.3",
-    "fresh-theme-hello-world": "^0.1.0"
-  }
+  "devDependencies": {}
 }

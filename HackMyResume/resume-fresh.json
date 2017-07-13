@@ -1,5 +1,4 @@
 {
-
   "name": "Tyler Reitz",
 
   "meta": {
@@ -8,9 +7,9 @@
   },
 
   "info": {
-    "label": "Front-End Developer",
-    "class": "Web Developer",
-    "brief": "Tyler hails from Los Angeles, CA. He’s earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to lean startups.",
+    "label": "Full-Stack Javascript Developer",
+    "class": "Software Engineer",
+    "brief": "Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.",
     "image": "profile.jpeg",
     "quote": "ship it"
   },
@@ -32,40 +31,56 @@
 
   "social": [
     {
-      "label": "Twitter",
-      "network": "Twitter",
+      "label": "twitter",
+      "network": "twitter",
       "url": "https://twitter.com/tyler_the_dvlpr",
-      "user": "@tyler_the_dvlpr"
+      "user": "@tyler_the_dvlpr",
+      "dataIcon": "c"
     },
     {
-      "label": "Github",
-      "network": "Github",
-      "url": "https://github.com/tylerreitz",
-      "user": "/tylerreitz"
+      "label": "github",
+      "network": "github",
+      "url": "https://github.com/tyler-reitz",
+      "user": "github.com/tyler-reitz",
+      "dataIcon": "d"
     },
     {
-      "label": "Codepen",
-      "network": "Codepen",
+      "label": "linkedin",
+      "network": "linkedin",
+      "url": "https://linkedin.com/in/tyler-reitz",
+      "user": "linkedin.com/in/tyler-reitz",
+      "dataIcon": "e"
+    },
+    {
+      "label": "codepen",
+      "network": "codepen",
       "url": "https://codepen.io/tyler-reitz/",
       "user": "/tyler-reitz"
     },
     {
-      "label": "Angellist",
-      "network": "Angellist",
+      "label": "angellist",
+      "network": "angellist",
       "url": "https://angel.co/tyler-reitz",
       "user": "/tyler-reitz"
-    },
-    {
-      "label": "LinkedIn",
-      "network": "LinkedIn",
-      "url": "https://linkedin.com/in/tylerreitz",
-      "user": "/tylerreitz"
     }
   ],
 
   "employment": {
-    "summary": "2+ years Front-End Development experience in startups, agencies, and enterprise.",
+    "summary": "3~ years Javascript Development experience in startups, agencies, and enterprise.",
     "history": [
+      {
+        "position": "Teacher’s Assistant",
+        "employer": "UCLA Extension",
+        "summary": "National wholesale e-commerce distributor of workplace essentials with consolidated net sales of $5.3 billion",
+        "start": "2017-04",
+        "end": "current",
+        "url": "https://codingbootcamp.uclaextension.edu/",
+        "location": "Westwood, CA",
+        "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React"],
+        "highlights": [
+          "Continuing Education Program Manager (CEPM) empowering universities and preparing students for high-growth careers in the Digital Economy by ensuring they graduate with both the technical skills and personal confidence needed to succeed in their careers"
+        ]
+      },
       {
         "position": "Front-End Developer",
         "employer": "ESSENDANT",
@@ -201,123 +216,130 @@
   "skills": {
     "sets": [
       {
-        "name": "Web Development",
+        "name": "web development",
         "level": "intermediate",
         "skills": [
-          "Javascript", "CSS", "HTML"
+          "javascript", "css", "html"
         ]
       },
       {
-        "name": "Javascript",
-        "level": "Advanced",
+        "name": "javascript",
+        "level": "advanced",
         "skills": [
-          "Javascript", "Node", "ES6", "Frameworks", "React", "Webpack"
+          "javascript", "node", "es6", "frameworks", "react", "webpack", "babel",
+          "mocha"
         ]
       },
       {
-        "name": "CSS",
-        "level": "Advanced",
+        "name": "css",
+        "level": "advanced",
         "skills": [
-          "PostCSS", "Sass", "Less", "Preprocessors"
+          "postcss", "sass", "less", "preprocessors"
         ]
       }
     ],
     "list": [
       {
-        "name": "Javascript",
-        "id": "1",
-        "summary": "ES6, Modular, Functional, OOP, Node, Client, Babel",
-        "level": "Advanced",
+        "name": "javascript",
+        "id": 1.0,
+        "summary": "es6, modular, functional, oop, node, client, babel",
+        "level": "advanced",
         "years": 2,
-        "proof": "https://github.com/tylerreitz"
+        "proof": "https://github.com/tylerreitz",
+        "class": "js",
+        "dataIcon": "z"
       },
       {
-        "name": "Node",
-        "id": "1.1",
-        "summary": "Javascript, Server, Back-End, Common.js, Express",
-        "level": "Beginner",
+        "name": "node",
+        "id": 1.2,
+        "summary": "javascript, server, back-end, common.js, express",
+        "level": "beginner",
         "years": 0.5,
-        "proof": ""
+        "proof": "",
+        "class": "nodejs-small",
+        "dataIcon": "I"
       },
       {
-        "name": "ES6",
-        "id": "1.2",
-        "summary": "Ecmascript 2015, Babel, Modules",
-        "level": "Intermediate",
+        "name": "react",
+        "id": 1.3,
+        "summary": "facebook",
+        "level": "intermediate",
         "years": 1,
-        "proof": ""
+        "proof": "",
+        "class": "react",
+        "dataIcon": "L"
       },
       {
-        "name": "Frameworks",
-        "id": "1.3",
-        "summary": "React, Angular, Vue, Ember",
-        "level": "Intermediate",
+        "name": "webpack",
+        "id": 1.5,
+        "summary": "module bundler",
+        "level": "intermediate",
+        "years": 0.5,
+        "proof": "",
+        "dataIcon": "#"
+      },
+      {
+        "name": "babel",
+        "id": 1.6,
+        "summary": "transpiler",
+        "level": "intermediate",
+        "years": 0.5,
+        "proof": "",
+        "dataIcon": "S"
+      },
+      {
+        "name": "chai",
+        "id": 1.70,
+        "summary": "testing framework",
+        "level": "intermediate",
+        "years": 0.5,
+        "proof": "",
+        "dataIcon": "T"
+      },
+      {
+        "name": "css",
+        "id": 2,
+        "summary": "postcss, sass, less, preprocessors, postprocessors",
+        "level": "intermediate",
         "years": 2,
-        "proof": ""
+        "proof": "https://github.com/tylerreitz",
+        "dataIcon": "r"
       },
       {
-        "name": "React",
-        "id": "1.4",
-        "summary": "Facebook",
-        "level": "Intermediate",
-        "years": 1,
-        "proof": ""
-      },
-      {
-        "name": "Webpack",
-        "id": "1.5",
-        "summary": "Module Bundler",
-        "level": "Intermediate",
+        "name": "postcss",
+        "id": 2.1,
+        "summary": "",
+        "level": "intermediate",
         "years": 0.5,
-        "proof": ""
+        "proof": "",
+        "dataIcon": "2"
       },
       {
-        "name": "CSS",
-        "id": "2",
-        "summary": "PostCSS, Sass, Less, Preprocessors, Postprocessors",
-        "level": "Intermediate",
+        "name": "sass",
+        "id": 2.2,
+        "summary": "",
+        "level": "intermediate",
+        "years": 0.5,
+        "proof": "",
+        "dataIcon": "N"
+      },
+      {
+        "name": "less",
+        "id": 2.3,
+        "summary": "",
+        "level": "intermediate",
+        "years": 0.5,
+        "proof": "",
+        "dataIcon": "C"
+      },
+      {
+        "name": "html",
+        "id": 3,
+        "summary": "standards-based, accessible, semantic",
+        "level": "master",
         "years": 2,
-        "proof": "https://github.com/tylerreitz"
-      },
-      {
-        "name": "PostCSS",
-        "id": "2.1",
-        "summary": "",
-        "level": "intermediate",
-        "years": 0.5,
-        "proof": ""
-      },
-      {
-        "name": "Sass",
-        "id": "2.2",
-        "summary": "",
-        "level": "intermediate",
-        "years": 0.5,
-        "proof": ""
-      },
-      {
-        "name": "Less",
-        "id": "2.3",
-        "summary": "",
-        "level": "intermediate",
-        "years": 0.5,
-        "proof": ""
-      },
-      {
-        "name": "Preprocessors",
-        "id": "2.4",
-        "summary": "",
-        "level": "intermediate",
-        "years": 0.5,
-        "proof": ""
-      },
-      {
-        "name": "HTML",
-        "id": "3",
-        "summary": "Standards-based, Accessible, Semantic",
-        "level": "Master",
-        "years": 2,
-        "proof": "https://github.com/tylerreitz"
+        "proof": "https://github.com/tylerreitz",
+        "dataIcon": "x"
       }
     ]
   },
@@ -328,7 +350,11 @@
       "summary": "shopify site",
       "date": "2016",
       "highilights": [],
-      "keywords": ["javascript", "sass", "bower", "gulp"]
+      "keywords": [
+        "javascript",
+        "sass",
+        "bower",
+        "gulp"]
     },
     {
       "title": "essendant",
