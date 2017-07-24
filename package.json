@@ -19,5 +19,8 @@
     "analyze": "hackmyresume ANALYZE resume-fresh.json"
   },
   "homepage": "https://github.com/tylerreitz/resume.json#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "hackmyresume": "^1.8.0"
+  }
 }
