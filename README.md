@@ -3,6 +3,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > My personal resume toolkit
+
 This repository provides a starting point for anyone looking to kick off their own resume-toolkit based on [hackmyresume](https://please.hackmyresume.com/)’s node module and the [FRESH](https://github.com/fluentdesk/FRESCA) or [JSONResume](http://jsonresume.org/) schemas. 
 
 See [hackmyresume](https://please.hackmyresume.com/) for more details on customization.
