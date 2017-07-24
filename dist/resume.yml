@@ -3,14 +3,14 @@ meta:
   format: FRESH@0.6.0
   version: 0.1.0
 info:
-  label: 'Front-End Developer'
-  class: 'Web Developer'
-  brief: 'Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to lean startups.'
+  label: 'Full-Stack Javascript Developer'
+  class: 'Software Engineer'
+  brief: 'Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.'
   image: profile.jpeg
-  quote: 'ship it'
+  quote: 'It''s not a bug, it''s a feature'
 contact:
-  website: 'https://tylerreitz.co'
-  phone: '(818) 424-6393'
+  website: 'http://tylerreitz.co'
+  phone: 818-424-6393
   email: tdreitz@gmail.com
   other: []
 location:
@@ -49,8 +49,25 @@ social:
     url: 'https://angel.co/tyler-reitz'
     user: /tyler-reitz
 employment:
-  summary: '2+ years Front-End Development experience in startups, agencies, and enterprise.'
+  summary: '~3 years Javascript Development experience in startups, agencies, and enterprise.'
   history:
+    -
+      position: 'Teacher’s Assistant'
+      employer: 'UCLA Extension'
+      summary: 'Continuing Education Program Manager (CEPM) empowering universities and preparing students for high-growth careers in the Digital Economy '
+      start: 2017-04
+      end: 2018-04
+      url: 'https://codingbootcamp.uclaextension.edu/'
+      location: 'Westwood, CA'
+      keywords:
+        - Javascript
+        - HTML
+        - CSS
+        - Node
+        - Express
+        - React
+      highlights:
+        - 'Lead classroom discussions, guide inquiry, emphasize the meta-skills and core concepts of software engineering, support students in their projects and challenges, and provide feedback to students'
     -
       position: 'Front-End Developer'
       employer: ESSENDANT
@@ -66,8 +83,8 @@ employment:
         - Node
         - Bower
       highlights:
-        - 'Built custom product-grid component using Isotope and jQuery'
-        - 'Javascript Development: Implemented IE-9 compatible product grid system on top of Masonry library'
+        - 'Build custom product-grid component using Isotope and jQuery'
+        - 'Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library'
     -
       position: 'Front-End Developer'
       employer: NOTION
@@ -83,7 +100,7 @@ employment:
         - Shopify
         - Node
       highlights:
-        - 'Bootstrapped a medium-sized static site from scratch for integaration with Shopify’s platform'
+        - 'Bootstrap medium-sized static site from scratch for integaration with Shopify’s platform'
     -
       position: 'Front-End Developer'
       employer: 'MC SQAURED'
@@ -103,11 +120,11 @@ employment:
         - PHP
         - Bootstrap
       highlights:
-        - 'Built polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS'
-        - 'Javascript Development: Implemented modular, developer-friendly JS using Backbone models and views'
-        - 'HTML5 + CSS3: Built and styled views using Underscore templating and a custom Bootstrap build'
+        - 'Build polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS'
+        - 'Javascript Development: Implement modular, developer-friendly JS using Backbone models and views'
+        - 'HTML5 + CSS3: Build and style views using Underscore templating and a custom Bootstrap build'
         - 'Workflow Automation: Node.js Grunt task-runner and the for CI deployment to remote production servers'
-        - 'Quality Assurance: Cross-browser testing older, outdated browser like IE 9'
+        - 'Quality Assurance: Cross-browser testing of older, outdated browser like IE 9'
     -
       position: 'Front-End Developer'
       employer: 'TRIBUNE PUBLISHING (NYSE: TPUB)'
@@ -125,8 +142,8 @@ employment:
         - Email
         - Publishing
       highlights:
-        - 'Built responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices'
-        - 'Javascript Development: Authored vanilla javascript and jQuery accross campaigns w/ a 200% impact'
+        - 'Build responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices'
+        - 'Javascript Development: Author vanilla javascript and jQuery accross campaigns w/ a 200% impact'
         - 'HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity'
         - 'Workflow Automation: Gulp task-runners reducing time spent on tedious, error-prone development tasks'
     -
@@ -144,7 +161,7 @@ employment:
         - 'Information Architecture'
         - Testing
       highlights:
-        - 'User Experience: Application of user-centered design methods to translate user needs, business objectives, and technology capabilities in pleasurable and profitable experiences for stakeholders and users'
+        - 'User Experience: Application of user-centered design methods to translate user needs, business objectives, and technology capabilities into pleasurable and profitable experiences for stakeholders and users'
     -
       position: 'User Experience Designer'
       employer: 'SAPIENT NITRO'
@@ -203,124 +220,199 @@ education:
 skills:
   sets:
     -
-      name: 'web development'
+      name: Front-end
+      level: advanced
+      skills:
+        - Babel
+        - Bootstrap
+        - CSS
+        - Chai
+        - Es6+
+        - HTML
+        - Jasmine
+        - Javascript
+        - Jest
+        - Karma
+        - Mocha
+        - PostCSS
+        - React
+        - Redux
+        - RWD
+        - Sass
+        - Webpack
+    -
+      name: Back-end
       level: intermediate
       skills:
-        - javascript
-        - css
-        - html
+        - Express
+        - Mongodb
+        - MVC
+        - Mysql
+        - Node
+        - Npm
+        - 'Npm scripts'
+        - ORM
+        - Sequelize
+        - SQL
+        - REST
     -
-      name: javascript
+      name: DevOps
       level: advanced
       skills:
-        - javascript
-        - node
-        - es6
-        - frameworks
-        - react
-        - webpack
-        - babel
-        - mocha
-    -
-      name: css
-      level: advanced
-      skills:
-        - postcss
-        - sass
-        - less
-        - preprocessors
+        - Docker
+        - Git
+        - Github
   list:
     -
-      name: javascript
-      id: 1
-      summary: 'es6, modular, functional, oop, node, client, babel'
-      level: advanced
-      years: 2
-      proof: 'https://github.com/tylerreitz'
-      class: js
-      dataIcon: z
-    -
-      name: node
-      id: 1.2
-      summary: 'javascript, server, back-end, common.js, express'
-      level: beginner
-      years: 0.5
-      proof: ""
-      class: nodejs-small
-      dataIcon: I
-    -
-      name: react
-      id: 1.3
-      summary: facebook
-      level: intermediate
-      years: 1
-      proof: ""
-      class: react
-      dataIcon: L
-    -
-      name: webpack
-      id: 1.5
-      summary: 'module bundler'
-      level: intermediate
-      years: 0.5
-      proof: ""
-      dataIcon: '#'
-    -
       name: babel
-      id: 1.6
       summary: transpiler
       level: intermediate
-      years: 0.5
-      proof: ""
-      dataIcon: S
+      years: 1.5
     -
-      name: chai
-      id: 1.7
-      summary: 'testing framework'
-      level: intermediate
-      years: 0.5
-      proof: ""
-      dataIcon: T
+      name: bootstrap
+      summary: 'Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development'
+      level: advanced
+      years: 3
     -
       name: css
-      id: 2
-      summary: 'postcss, sass, less, preprocessors, postprocessors'
+      summary: 'Cascading-Style Sheets'
+      level: advanced
+      years: 3
+    -
+      name: chai
+      summary: 'A BDD / TDD assertion library for [node](http://nodejs.org) and the browser'
       level: intermediate
+      years: 1.5
+    -
+      name: docker
+      summary: 'An open platform to build, ship, and run distributed applications'
+      level: intermediate
+      years: 1.5
+    -
+      name: es6+
+      summay: 'Significant updates to the scripting language of the web'
+      level: advanced
       years: 2
-      proof: 'https://github.com/tylerreitz'
-      dataIcon: r
     -
-      name: postcss
-      id: 2.1
-      summary: ""
-      level: intermediate
-      years: 0.5
-      proof: ""
-      dataIcon: '2'
+      name: express
+      summay: 'A minimal and flexible Node.js web application framework'
+      level: advanced
+      years: 2
     -
-      name: sass
-      id: 2.2
-      summary: ""
+      name: git
+      summary: 'A distributed version control system for tracking and coordinating changes in computer files among teams'
       level: intermediate
-      years: 0.5
-      proof: ""
-      dataIcon: N
+      years: 3
     -
-      name: less
-      id: 2.3
-      summary: ""
+      name: github
+      summary: 'web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features'
       level: intermediate
-      years: 0.5
-      proof: ""
-      dataIcon: C
+      years: 3
     -
       name: html
-      id: 3
-      summary: 'standards-based, accessible, semantic'
+      summary: 'Core language of the World Wide Web: Hypertext Markup Language (HTML)'
       level: master
+      years: 3
+    -
+      name: jasmine
+      summary: 'A behavior-driven development framework for testing JavaScript code.'
+      level: intermediate
+      years: 1.5
+    -
+      name: javascript
+      summary: 'prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles'
+      level: advanced
+      years: 3
+    -
+      name: jest
+      summary: 'Faceboooks'' complete and easy to set up JavaScript testing solution'
+      level: advanced
+      years: 3
+    -
+      name: karma
+      summary: 'A test runner for JavaScript that runs on Node.js'
+      level: intermediate
+      years: 1.5
+    -
+      name: mocha
+      summary: 'Feature-rich JavaScript test framework running on Node.js and in the browser'
+      level: intermediate
+      years: 1.5
+    -
+      name: mongodb
+      summary: 'A free and open-source cross-platform document-oriented database program'
+      level: intermediate
+      years: 1.5
+    -
+      name: mvc
+      summary: 'Software architectural pattern for implementing user interfaces on computers'
+      level: intermediate
+      years: 1.5
+    -
+      name: mysql
+      summary: 'An open-source relational database management system (RDBMS)'
+      level: intermediate
+      years: 1.5
+    -
+      name: node
+      summary: 'javascript, server, back-end, common.js, express'
+      level: advanced
+      years: 1.5
+    -
+      name: npm
+      summary: 'Package manager for JavaScript and the world''s largest software registry'
+      level: advanced
       years: 2
-      proof: 'https://github.com/tylerreitz'
-      dataIcon: x
+    -
+      name: 'npm scripts'
+      summary: 'Build tooling'
+      level: advanced
+      years: 2
+    -
+      name: ORM
+      summary: 'Technique for converting data between incompatible type systems using object-oriented programming languages'
+      level: intermediate
+      years: 1.5
+    -
+      name: postcss
+      summary: ""
+      level: intermediate
+      years: 1
+    -
+      name: react
+      summary: facebook
+      level: advanced
+      years: 1.5
+    -
+      name: redux
+      summary: 'A predictable state container for JavaScript apps'
+      level: advanced
+      years: 1.5
+    -
+      name: REST
+      summary: 'A way of providing interoperability between computer systems on the Internet'
+      level: advanced
+      years: 1.5
+    -
+      name: RWD
+      summary: 'Development practicing the consistant mix of flexible grids and layouts, images and an intelligent use of CSS media queries.'
+      level: advanced
+      years: 3
+    -
+      name: sass
+      summary: 'Scripting language that is interpreted or compiled into Cascading Style Sheets (CSS)'
+      level: intermediate
+      years: 3
+    -
+      name: sequelize
+      summary: 'Multi-dialect ORM and related tools for Node.js'
+      level: intermediate
+      years: 1.5
+    -
+      name: webpack
+      summary: 'A module bundler that supports pre-processing'
+      level: advanced
+      years: 1.5
 samples:
   -
     title: notion

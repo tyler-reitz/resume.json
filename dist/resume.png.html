@@ -4,19 +4,17 @@
     <head>
         <meta charset="utf-8">
         <title>Tyler Reitz</title>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic'
-        rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <style>
             html, body, main, section, header, ul, p, h1, h2, h3 {
-              font-family: 'Calibri', 'Open Sans', 'sans-serif';
-              font-size: 14px;
+              font-family: 'Calibri', 'Helvetica Neue', 'Helvetica', 'Segoe UI', 'sans-serif';
+              font-size: 12px;
               margin: 0; padding: 0;
               display: block;
             }
             
             a {
-              color: #C00000;
+              color: #0064BD;
               text-decoration: none;
             }
             
@@ -28,76 +26,27 @@
               text-decoration: underline;
             }
             
-            h1 {
-              text-transform: uppercase;
-              font-size:
-            }
-            
             h2 {
               text-transform: uppercase;
-              color: #898989;
-              font-size: 2em;
-              position: relative;
-              font-weight: 400;
-            }
-            
-            h3, .tenure {
-              font-size: 1.5em;
-              font-weight: 300;
             }
             
             h3 {
-              margin-top: 0;
-              width: 66%;
-              float: left;
-            }
-            
-            table {
-              width: 100%;
-              text-transform: uppercase;
-              font-size: 1.3em;
-            }
-            
-            td:first-child {
-              text-align: right;
-              color: #A9A9A9;
-              letter-spacing: 5px;
-              font-weight: bold;
-            }
-            
-            td:last-child {
-              text-align: justify; /* HTML justification sucks, but in this case... */
+              font-size: 1em;
             }
             
             hr {
-              display: none;
+              border: none;
+              border-top: 1px solid #B3B3B3;
             }
             
             main {
               padding: 15px;
-              max-width: 800px;
+              max-width: 700px;
               margin: 0 auto;
             }
             
             section {
               margin-top: 1em;
-            }
-            
-            section > div {
-              margin-top: 1em;
-              overflow: hidden; /* Clear floated children */
-            }
-            
-            section > div p {
-              clear: both;
-            }
-            
-            section > header {
-              position: relative;
-            }
-            
-            ul {
-              clear: both;
             }
             
             li {
@@ -106,20 +55,11 @@
             
             p, li {
               text-align: justify;
+              clear: both;
             }
             
             .tenure {
               float: right;
-              color: #6F6F6F;
-              background-color: #F5F5F5;
-              border-radius: 6px;
-              padding: 4px 6px;
-              font-size: 85%;
-            }
-            
-            span.keywords {
-              font-size: 10px;
-              color: #B16666;
             }
             
             thead {
@@ -129,45 +69,42 @@
             main > header {
               width: 100%;
               float: left;
-              margin-bottom: 1em;
+              margin-bottom: 0;
+              position: relative;
             }
             
-            h1 {
+            
+            h3 {
+              display: inline-block;
+              line-height: 1;
+            }
+            #contact {
+              float: right;
+              position: absolute;
+              right: 0;
+              bottom: 0;
+            }
+            
+            #contact > div {
+              display: inline-block;
+              margin-left: 5px;
+            }
+            
+            span.fa {
+              text-align: left;
+              margin-right: 3px;
               float: left;
             }
             
-            h1, h2, .label {
-              font-size: 2.5em;
-              text-transform: uppercase;
-              font-weight: 300;
-              font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Lato', 'sans-serif'
+            section > div {
+              margin-bottom: 1em;
+              clear: both;
             }
             
-            #contact {
-             clear: both;
-             float: right;
-            }
-            
-            header > span.fa {
-              text-align: center;
-              margin-right: 3px;
-              position: absolute;
-              width: 40px;
-              top: 10px;
-              font-size: 30px;
-              /*transform: translateX(-110%); PDF no likey */
-              margin-left: -50px;
-              color: #DADADA;
-            }
-            
-            .label {
-              float: right;
-              color: #DADADA;
-            }
-            
-            #summary {
-              color: #717171;
-              font-size: 1.25em;
+            span.keywords {
+              font-size: 10px;
+              color: gray;
+              text-align: right;
             }
         </style>
     </head>
@@ -175,16 +112,17 @@
     <body>
         <main>
             <header>
-                 <h1>Tyler <span style="color: #C00000;">Reitz</span></h1>
- <span class="label">Full-Stack Javascript Developer</span>
+                 <h1>Tyler Reitz</h1>
 
-                <p id="contact"> <span class="email"><a href="mailto:tdreitz@gmail.com">tdreitz@gmail.com</a></span>
-
-                    <span
-                    class="phone">(818) 424-6393</span> <span class="website"><a href="https://tylerreitz.co"><a href="https://tylerreitz.co">https://tylerreitz.co</a></a></span>
-
-                </p>
+                <div id="contact">
+                    <div class="email"><a href="mailto:tdreitz@gmail.com">tdreitz@gmail.com</a>
+                    </div>
+                    <div class="phone">818-424-6393</div>
+                    <div class="website"><a href="http://tylerreitz.co">tylerreitz.co</a>
+                    </div>
+                </div>
             </header>
+            <hr>
             <section id="summary">Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied
                 at the University of California, Los Angeles, General Assembly, and Bloc.io.
                 His work focuses on front-end development, Javascript, and the blazing
@@ -205,47 +143,48 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="width: 25%;">web development</td>
-                            <td class="keywords">javascript css html</td>
+                            <td style="width: 25%;">Front-end</td>
+                            <td class="keywords">Babel Bootstrap CSS Chai Es6+ HTML Jasmine Javascript Jest Karma Mocha
+                                PostCSS React Redux RWD Sass Webpack</td>
                         </tr>
                         <tr>
-                            <td style="width: 25%;">javascript</td>
-                            <td class="keywords">javascript node es6 frameworks react webpack babel mocha</td>
+                            <td style="width: 25%;">Back-end</td>
+                            <td class="keywords">Express Mongodb MVC Mysql Node Npm Npm scripts ORM Sequelize SQL REST</td>
                         </tr>
                         <tr>
-                            <td style="width: 25%;">css</td>
-                            <td class="keywords">postcss sass less preprocessors</td>
+                            <td style="width: 25%;">DevOps</td>
+                            <td class="keywords">Docker Git Github</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
             <hr>
             <section id="employment">
-                <header> <span class="fa fa-lg fa-building"></span> 
+                <header> <span class="fa fa-building"></span> 
                      <h2>employment</h2>
 
                 </header>
                 <div>
                      <h3><em>Teacher’s Assistant</em>,
-              <a href="https://codingbootcamp.uclaextension.edu/">UCLA Extension</a>
-              </h3>
- <span class="tenure">2017-04 — Present</span>
+    <a href="https://codingbootcamp.uclaextension.edu/">UCLA Extension</a>
+    </h3>
+ <span class="tenure">2017-04 — 2018-04</span>
 
                     <p>
-                        <p>National wholesale e-commerce distributor of workplace essentials with
-                            consolidated net sales of $5.3 billion</p>
+                        <p>Continuing Education Program Manager (CEPM) empowering universities and
+                            preparing students for high-growth careers in the Digital Economy</p>
                     </p>
                     <ul>
-                        <li>Continuing Education Program Manager (CEPM) empowering universities and
-                            preparing students for high-growth careers in the Digital Economy by ensuring
-                            they graduate with both the technical skills and personal confidence needed
-                            to succeed in their careers</li>
-                    </ul> <span class="keywords">Javascript HTML CSS Node Express React </span> 
+                        <li>Lead classroom discussions, guide inquiry, emphasize the meta-skills and
+                            core concepts of software engineering, support students in their projects
+                            and challenges, and provide feedback to students</li>
+                    </ul> <span class="keywords">Javascript HTML CSS Node Express React </span>
+
                 </div>
                 <div>
                      <h3><em>Front-End Developer</em>,
-              <a href="https://www.essendant.com/">ESSENDANT</a>
-              </h3>
+    <a href="https://www.essendant.com/">ESSENDANT</a>
+    </h3>
  <span class="tenure">2016-09 — 2016-10</span>
 
                     <p>
@@ -253,15 +192,16 @@
                             consolidated net sales of $5.3 billion</p>
                     </p>
                     <ul>
-                        <li>Built custom product-grid component using Isotope and jQuery</li>
-                        <li>Javascript Development: Implemented IE-9 compatible product grid system
+                        <li>Build custom product-grid component using Isotope and jQuery</li>
+                        <li>Javascript Development: Implement IE-9 compatiblilty product grid system
                             on top of Masonry library</li>
-                    </ul> <span class="keywords">Javascript HTML CSS Node Bower </span> 
+                    </ul> <span class="keywords">Javascript HTML CSS Node Bower </span>
+
                 </div>
                 <div>
                      <h3><em>Front-End Developer</em>,
-              <a href="https://www.facebook.com/NotionCreativeAgency/">NOTION</a>
-              </h3>
+    <a href="https://www.facebook.com/NotionCreativeAgency/">NOTION</a>
+    </h3>
  <span class="tenure">2016-08 — 2016-09</span>
 
                     <p>
@@ -269,14 +209,15 @@
                             sized business’ digital needs</p>
                     </p>
                     <ul>
-                        <li>Bootstrapped a medium-sized static site from scratch for integaration
-                            with Shopify’s platform</li>
-                    </ul> <span class="keywords">Javascript HTML CSS Shopify Node </span> 
+                        <li>Bootstrap medium-sized static site from scratch for integaration with
+                            Shopify’s platform</li>
+                    </ul> <span class="keywords">Javascript HTML CSS Shopify Node </span>
+
                 </div>
                 <div>
                      <h3><em>Front-End Developer</em>,
-              <a href="https://e-mc2.com/">MC SQAURED</a>
-              </h3>
+    <a href="https://e-mc2.com/">MC SQAURED</a>
+    </h3>
  <span class="tenure">2016-05 — 2016-07</span>
 
                     <p>
@@ -284,22 +225,23 @@
                             estate, fashion, and lifestyle verticles</p>
                     </p>
                     <ul>
-                        <li>Built polished micro-site, landing pages, and e-commerce solutions using
+                        <li>Build polished micro-site, landing pages, and e-commerce solutions using
                             Backbone, Require, Bower, and LESS</li>
-                        <li>Javascript Development: Implemented modular, developer-friendly JS using
+                        <li>Javascript Development: Implement modular, developer-friendly JS using
                             Backbone models and views</li>
-                        <li>HTML5 + CSS3: Built and styled views using Underscore templating and a
+                        <li>HTML5 + CSS3: Build and style views using Underscore templating and a
                             custom Bootstrap build</li>
                         <li>Workflow Automation: Node.js Grunt task-runner and the for CI deployment
                             to remote production servers</li>
-                        <li>Quality Assurance: Cross-browser testing older, outdated browser like
+                        <li>Quality Assurance: Cross-browser testing of older, outdated browser like
                             IE 9</li>
-                    </ul> <span class="keywords">Javascript HTML CSS Node Grunt Less Backbone PHP Bootstrap </span> 
+                    </ul> <span class="keywords">Javascript HTML CSS Node Grunt Less Backbone PHP Bootstrap </span>
+
                 </div>
                 <div>
                      <h3><em>Front-End Developer</em>,
-              <a href="https://e-mc2.com/">TRIBUNE PUBLISHING (NYSE: TPUB)</a>
-              </h3>
+    <a href="https://e-mc2.com/">TRIBUNE PUBLISHING (NYSE: TPUB)</a>
+    </h3>
  <span class="tenure">2016-05 — 2016-07</span>
 
                     <p>
@@ -307,20 +249,21 @@
                             views</p>
                     </p>
                     <ul>
-                        <li>Built responsive, modular, and reusable views following CSS, HTML, and
+                        <li>Build responsive, modular, and reusable views following CSS, HTML, and
                             JavaScript best-practices</li>
-                        <li>Javascript Development: Authored vanilla javascript and jQuery accross
-                            campaigns w/ a 200% impact</li>
+                        <li>Javascript Development: Author vanilla javascript and jQuery accross campaigns
+                            w/ a 200% impact</li>
                         <li>HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS
                             for optimal maintainablity</li>
                         <li>Workflow Automation: Gulp task-runners reducing time spent on tedious,
                             error-prone development tasks</li>
-                    </ul> <span class="keywords">Javascript HTML CSS Gulp Node Email Publishing </span> 
+                    </ul> <span class="keywords">Javascript HTML CSS Gulp Node Email Publishing </span>
+
                 </div>
                 <div>
                      <h3><em>User Experience Designer</em>,
-              <a href="http://www.xivic.com/">XIVIC INC.</a>
-              </h3>
+    <a href="http://www.xivic.com/">XIVIC INC.</a>
+    </h3>
  <span class="tenure">2015-06 — 2015-10</span>
 
                     <p>
@@ -331,14 +274,15 @@
                     </p>
                     <ul>
                         <li>User Experience: Application of user-centered design methods to translate
-                            user needs, business objectives, and technology capabilities in pleasurable
+                            user needs, business objectives, and technology capabilities into pleasurable
                             and profitable experiences for stakeholders and users</li>
-                    </ul> <span class="keywords">User Experience Design Research Wireframes Information Architecture Testing </span> 
+                    </ul> <span class="keywords">User Experience Design Research Wireframes Information Architecture Testing </span>
+
                 </div>
                 <div>
                      <h3><em>User Experience Designer</em>,
-              <a href="http://www.sapientnitro.com/en-us.html">SAPIENT NITRO</a>
-              </h3>
+    <a href="http://www.sapientnitro.com/en-us.html">SAPIENT NITRO</a>
+    </h3>
  <span class="tenure">2014-06 — 2014-10</span>
 
                     <p>
@@ -350,12 +294,13 @@
                         <li>User Experience: Responsible for the navigation, organization, interaction
                             design, and business/user process engineering for Starbucks’s Project Uno
                             initiative</li>
-                    </ul> <span class="keywords">User Experience Design Research Wireframes Information Architecture Testing </span> 
+                    </ul> <span class="keywords">User Experience Design Research Wireframes Information Architecture Testing </span>
+
                 </div>
             </section>
             <hr>
             <section id="education">
-                <header> <span class="fa fa-lg fa-mortar-board"></span> 
+                <header> <span class="fa fa-mortar-board"></span> 
                      <h2>education</h2>
 
                 </header>
@@ -377,62 +322,62 @@
             </section>
             <hr>
             <section id="samples">
-                <header> <span class="fa fa-lg fa-share"></span> 
+                <header> <span class="fa fa-share"></span> 
                      <h2>samples</h2>
 
                 </header>
                 <div>
                      <h3>
-          notion
-          </h3>
+    notion
+    </h3>
  <span class="tenure">2016-01</span>
 
                     <p>shopify site</p>
                 </div>
                 <div>
                      <h3>
-          <a href="https://github.com/tylerreitz/essendant">essendant</a>
-          </h3>
+    <a href="https://github.com/tylerreitz/essendant">essendant</a>
+    </h3>
  <span class="tenure">2016-01</span>
 
                     <p>product-grid</p>
                 </div>
                 <div>
                      <h3>
-          <a href="http://1700southharbor.com/">harbor</a>
-          </h3>
+    <a href="http://1700southharbor.com/">harbor</a>
+    </h3>
  <span class="tenure">2015-01</span>
 
                     <p>hotel micro-site</p>
                 </div>
                 <div>
                      <h3>
-          <a href="http://1030westkatella.com/">anabella</a>
-          </h3>
+    <a href="http://1030westkatella.com/">anabella</a>
+    </h3>
  <span class="tenure">2015-01</span>
 
                     <p>hotel micro-site</p>
                 </div>
                 <div>
                      <h3>
-          <a href="https://shopredcherry.com/">red-cherry</a>
-          </h3>
+    <a href="https://shopredcherry.com/">red-cherry</a>
+    </h3>
  <span class="tenure">2015-01</span>
 
                     <p>e-commerce site</p>
                 </div>
                 <div>
                      <h3>
-          trib-pub
-          </h3>
+    trib-pub
+    </h3>
  <span class="tenure">2015-01</span>
 
                     <p>email + landing pages</p>
                 </div>
                 <div>
                      <h3>
-          <a href="https://github.com/tylerreitz/bloc-jams-angular">bloc-jams</a>
-          </h3>
+    <a href="https://github.com/tylerreitz/bloc-jams-angular">bloc-jams</a>
+    </h3>
  <span class="tenure">2014-01</span>
 
                     <p>angluar Rdio clone</p>

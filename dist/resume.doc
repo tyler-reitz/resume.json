@@ -488,7 +488,7 @@
           <w:rPr>
             <w:sz-cs w:val="20"/>
           </w:rPr>
-          <w:t>(818) 424-6393</w:t>
+          <w:t>818-424-6393</w:t>
         </w:r>
         <w:r>
           <w:rPr>
@@ -496,7 +496,7 @@
           </w:rPr>
           <w:t> - </w:t>
         </w:r>
-        <w:hlink w:dest="https://tylerreitz.co">
+        <w:hlink w:dest="http://tylerreitz.co">
           <w:r wsp:rsidRPr="003876BF">
             <w:rPr>
               <w:rStyle w:val="Hyperlink"/>
@@ -535,7 +535,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>web development:</w:t>
+            <w:t>Front-end:</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -546,7 +546,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>javascript, css, html</w:t>
+            <w:t>Babel, Bootstrap, CSS, Chai, Es6+, HTML, Jasmine, Javascript, Jest, Karma, Mocha, PostCSS, React, Redux, RWD, Sass, Webpack</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -561,7 +561,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>javascript:</w:t>
+            <w:t>Back-end:</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -572,7 +572,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>javascript, node, es6, frameworks, react, webpack, babel, mocha</w:t>
+            <w:t>Express, Mongodb, MVC, Mysql, Node, Npm, Npm scripts, ORM, Sequelize, SQL, REST</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -587,7 +587,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>css:</w:t>
+            <w:t>DevOps:</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -598,7 +598,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>postcss, sass, less, preprocessors</w:t>
+            <w:t>Docker, Git, Github</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -646,7 +646,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Apr 2017 — Present</w:t>
+        <w:t>Apr 2017 — Apr 2018</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -655,7 +655,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>National wholesale e-commerce distributor of workplace essentials with consolidated net sales of $5.3 billion</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Continuing Education Program Manager (CEPM) empowering universities and preparing students for high-growth careers in the Digital Economy</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -671,7 +671,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Continuing Education Program Manager (CEPM) empowering universities and preparing students for high-growth careers in the Digital Economy by ensuring they graduate with both the technical skills and personal confidence needed to succeed in their careers</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Lead classroom discussions, guide inquiry, emphasize the meta-skills and core concepts of software engineering, support students in their projects and challenges, and provide feedback to students</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -728,7 +728,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Built custom product-grid component using Isotope and jQuery</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Build custom product-grid component using Isotope and jQuery</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -743,7 +743,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Javascript Development: Implemented IE-9 compatible product grid system on top of Masonry library</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -800,7 +800,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Bootstrapped a medium-sized static site from scratch for integaration with Shopify’s platform</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Bootstrap medium-sized static site from scratch for integaration with Shopify’s platform</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -857,7 +857,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Built polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Build polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -872,7 +872,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Javascript Development: Implemented modular, developer-friendly JS using Backbone models and views</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Javascript Development: Implement modular, developer-friendly JS using Backbone models and views</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -887,7 +887,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>HTML5 + CSS3: Built and styled views using Underscore templating and a custom Bootstrap build</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>HTML5 + CSS3: Build and style views using Underscore templating and a custom Bootstrap build</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -917,7 +917,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Quality Assurance: Cross-browser testing older, outdated browser like IE 9</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Quality Assurance: Cross-browser testing of older, outdated browser like IE 9</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -974,7 +974,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Built responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Build responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -989,7 +989,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Javascript Development: Authored vanilla javascript and jQuery accross campaigns w/ a 200% impact</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Javascript Development: Author vanilla javascript and jQuery accross campaigns w/ a 200% impact</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1076,7 +1076,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>User Experience: Application of user-centered design methods to translate user needs, business objectives, and technology capabilities in pleasurable and profitable experiences for stakeholders and users</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>User Experience: Application of user-centered design methods to translate user needs, business objectives, and technology capabilities into pleasurable and profitable experiences for stakeholders and users</w:t></w:r>
     </w:p>
 
   </wx:sub-section>

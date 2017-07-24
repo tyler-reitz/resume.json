@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "prebuild": "rm -rf dist/* && npm run validate",
+    "build": "hackmyresume BUILD resume-fresh.json TO dist/resume.all -t compact",
+    "validate": "hackmyresume VALIDATE resume-fresh.json",
+    "analyze": "hackmyresume ANALYZE resume-fresh.json"
+  }
+}
