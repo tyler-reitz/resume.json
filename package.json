@@ -1,8 +1,23 @@
 {
+  "name": "HackMyResume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerreitz/resume.json.git"
+  },
+  "keywords": [],
+  "author": "Tyler Reitz <tdreitz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerreitz/resume.json/issues"
+  },
   "scripts": {
     "prebuild": "rm -rf dist/* && npm run validate",
     "build": "hackmyresume BUILD resume-fresh.json TO dist/resume.all -t compact",
     "validate": "hackmyresume VALIDATE resume-fresh.json",
     "analyze": "hackmyresume ANALYZE resume-fresh.json"
-  }
+  },
+  "homepage": "https://github.com/tylerreitz/resume.json#readme",
+  "description": ""
 }
