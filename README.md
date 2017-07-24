@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> my personal resume data
+> My personal resume data
 
 TODO: Fill out this long description.
 
@@ -17,11 +17,13 @@ TODO: Fill out this long description.
 ## Install
 
 ```
+git clone https://github.com/tyler-reitz/resume.json.git
 ```
 
 ## Usage
 
 ```
+
 ```
 
 ## Maintainers
