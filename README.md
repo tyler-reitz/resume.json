@@ -22,8 +22,13 @@ git clone https://github.com/tyler-reitz/resume.json.git
 
 ## Usage
 
+**Build** 
 ```
+npm run build
 
+// optional
+npm run validate
+npm run analyze
 ```
 
 ## Maintainers
