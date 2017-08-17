@@ -16,27 +16,33 @@ Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at t
 
 ### *Teacher’s Assistant*, [UCLA Extension](https://codingbootcamp.uclaextension.edu/) (2017-04 — 2018-04)
 
-Continuing Education Program Manager (CEPM) empowering universities and preparing students for high-growth careers in the Digital Economy 
-  - Lead classroom discussions, guide inquiry, emphasize the meta-skills and core concepts of software engineering, support students in their projects and challenges, and provide feedback to students
+A continuing education institution headquartered in Westwood, California, on the campus of the University of California, Los Angeles and part of the University of California system.
+  - Lead classroom discussions
+  - guide inquiry
+  - emphasize the meta-skills and core concepts of software engineering
+  - support students in their projects and challenges
+  - and provide feedback to students
 
 ### *Front-End Developer*, [ESSENDANT](https://www.essendant.com/) (2016-09 — 2016-10)
 
-National wholesale e-commerce distributor of workplace essentials with consolidated net sales of $5.3 billion
+National wholesale e-commerce distributor with a consolidated net sales of $5.3 billion and ranking of 484 out of the top Fortune 500 companies in 2013
   - Build custom product-grid component using Isotope and jQuery
   - Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library
+  - Quality Assurance: Cross-browser testing of older, outdated browser like IE 9
 
 ### *Front-End Developer*, [NOTION](https://www.facebook.com/NotionCreativeAgency/) (2016-08 — 2016-09)
 
 A full-service design & development shop catering to small and medium sized business’ digital needs
-  - Bootstrap medium-sized static site from scratch for integaration with Shopify’s platform
+  - Bootstrap medium-sized static site from scratch
+  - Shopify platform integaration
+  - Heavily customized CSS/Sass using best practices
 
 ### *Front-End Developer*, [MC SQAURED](https://e-mc2.com/) (2016-05 — 2016-07)
 
-A full-service, integrated agency providing services for clients in real estate, fashion, and lifestyle verticles
+Creative agency servicing clients in luxury real estate, fashion, and lifestyle verticles including Coldwell Banker (NYSE: RLGY) w/ a 4.67B market cap and Sapporo (2501:JP) w/ 2.05B market cap
   - Build polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS
   - Javascript Development: Implement modular, developer-friendly JS using Backbone models and views
   - HTML5 + CSS3: Build and style views using Underscore templating and a custom Bootstrap build
-  - Workflow Automation: Node.js Grunt task-runner and the for CI deployment to remote production servers
   - Quality Assurance: Cross-browser testing of older, outdated browser like IE 9
 
 ### *Front-End Developer*, [TRIBUNE PUBLISHING (NYSE: TPUB)](https://e-mc2.com/) (2016-05 — 2016-07)
@@ -45,7 +51,6 @@ Media company w/ 53+ MM unique monthy visitors’s and 335+ MM monthly page view
   - Build responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices
   - Javascript Development: Author vanilla javascript and jQuery accross campaigns w/ a 200% impact
   - HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity
-  - Workflow Automation: Gulp task-runners reducing time spent on tedious, error-prone development tasks
 
 ### *User Experience Designer*, [XIVIC INC.](http://www.xivic.com/) (2015-06 — 2015-10)
 

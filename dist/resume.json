@@ -50,9 +50,13 @@
       "position": "Teacher’s Assistant",
       "startDate": "2017-04",
       "endDate": "2018-04",
-      "summary": "Continuing Education Program Manager (CEPM) empowering universities and preparing students for high-growth careers in the Digital Economy ",
+      "summary": "A continuing education institution headquartered in Westwood, California, on the campus of the University of California, Los Angeles and part of the University of California system.",
       "highlights": [
-        "Lead classroom discussions, guide inquiry, emphasize the meta-skills and core concepts of software engineering, support students in their projects and challenges, and provide feedback to students"
+        "Lead classroom discussions",
+        "guide inquiry",
+        "emphasize the meta-skills and core concepts of software engineering",
+        "support students in their projects and challenges",
+        "and provide feedback to students"
       ]
     },
     {
@@ -61,10 +65,11 @@
       "position": "Front-End Developer",
       "startDate": "2016-09",
       "endDate": "2016-10",
-      "summary": "National wholesale e-commerce distributor of workplace essentials with consolidated net sales of $5.3 billion",
+      "summary": "National wholesale e-commerce distributor with a consolidated net sales of $5.3 billion and ranking of 484 out of the top Fortune 500 companies in 2013",
       "highlights": [
         "Build custom product-grid component using Isotope and jQuery",
-        "Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library"
+        "Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library",
+        "Quality Assurance: Cross-browser testing of older, outdated browser like IE 9"
       ]
     },
     {
@@ -75,7 +80,9 @@
       "endDate": "2016-09",
       "summary": "A full-service design & development shop catering to small and medium sized business’ digital needs",
       "highlights": [
-        "Bootstrap medium-sized static site from scratch for integaration with Shopify’s platform"
+        "Bootstrap medium-sized static site from scratch",
+        "Shopify platform integaration",
+        "Heavily customized CSS/Sass using best practices"
       ]
     },
     {
@@ -84,12 +91,11 @@
       "position": "Front-End Developer",
       "startDate": "2016-05",
       "endDate": "2016-07",
-      "summary": "A full-service, integrated agency providing services for clients in real estate, fashion, and lifestyle verticles",
+      "summary": "Creative agency servicing clients in luxury real estate, fashion, and lifestyle verticles including Coldwell Banker (NYSE: RLGY) w/ a 4.67B market cap and Sapporo (2501:JP) w/ 2.05B market cap",
       "highlights": [
         "Build polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS",
         "Javascript Development: Implement modular, developer-friendly JS using Backbone models and views",
         "HTML5 + CSS3: Build and style views using Underscore templating and a custom Bootstrap build",
-        "Workflow Automation: Node.js Grunt task-runner and the for CI deployment to remote production servers",
         "Quality Assurance: Cross-browser testing of older, outdated browser like IE 9"
       ]
     },
@@ -103,8 +109,7 @@
       "highlights": [
         "Build responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices",
         "Javascript Development: Author vanilla javascript and jQuery accross campaigns w/ a 200% impact",
-        "HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity",
-        "Workflow Automation: Gulp task-runners reducing time spent on tedious, error-prone development tasks"
+        "HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity"
       ]
     },
     {

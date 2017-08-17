@@ -655,7 +655,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Continuing Education Program Manager (CEPM) empowering universities and preparing students for high-growth careers in the Digital Economy</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>A continuing education institution headquartered in Westwood, California, on the campus of the University of California, Los Angeles and part of the University of California system.</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -671,7 +671,67 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Lead classroom discussions, guide inquiry, emphasize the meta-skills and core concepts of software engineering, support students in their projects and challenges, and provide feedback to students</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Lead classroom discussions</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>guide inquiry</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>emphasize the meta-skills and core concepts of software engineering</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>support students in their projects and challenges</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>and provide feedback to students</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -712,7 +772,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>National wholesale e-commerce distributor of workplace essentials with consolidated net sales of $5.3 billion</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>National wholesale e-commerce distributor with a consolidated net sales of $5.3 billion and ranking of 484 out of the top Fortune 500 companies in 2013</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -744,6 +804,21 @@
         </w:rPr>
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Quality Assurance: Cross-browser testing of older, outdated browser like IE 9</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -800,7 +875,37 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Bootstrap medium-sized static site from scratch for integaration with Shopify’s platform</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Bootstrap medium-sized static site from scratch</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Shopify platform integaration</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>Heavily customized CSS/Sass using best practices</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -841,7 +946,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>A full-service, integrated agency providing services for clients in real estate, fashion, and lifestyle verticles</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>Creative agency servicing clients in luxury real estate, fashion, and lifestyle verticles including Coldwell Banker (NYSE: RLGY) w/ a 4.67B market cap and Sapporo (2501:JP) w/ 2.05B market cap</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -888,21 +993,6 @@
         </w:rPr>
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>HTML5 + CSS3: Build and style views using Underscore templating and a custom Bootstrap build</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Workflow Automation: Node.js Grunt task-runner and the for CI deployment to remote production servers</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -1005,21 +1095,6 @@
         </w:rPr>
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Workflow Automation: Gulp task-runners reducing time spent on tedious, error-prone development tasks</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
