@@ -1,0 +1,546 @@
+{
+  "name": "Tyler Reitz",
+
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+
+  "info": {
+    "label": "Full-Stack Javascript Developer",
+    "class": "Software Engineer",
+    "brief": "Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.",
+    "image": "profile.jpeg",
+    "quote": "It's not a bug, it's a feature"
+  },
+
+  "contact": {
+    "website": "http://tylerreitz.co",
+    "phone": "818-424-6393",
+    "email": "tdreitz@gmail.com",
+    "other": []
+  },
+
+  "location": {
+    "city": "Los Angeles",
+    "region": "California",
+    "country": "US",
+    "code": "90013",
+    "address": "430 S. Broadway"
+  },
+
+  "social": [
+    {
+      "label": "twitter",
+      "network": "twitter",
+      "url": "https://twitter.com/tyler_the_dvlpr",
+      "user": "@tyler_the_dvlpr",
+      "dataIcon": "c"
+    },
+    {
+      "label": "github",
+      "network": "github",
+      "url": "https://github.com/tyler-reitz",
+      "user": "github.com/tyler-reitz",
+      "dataIcon": "d"
+    },
+    {
+      "label": "linkedin",
+      "network": "linkedin",
+      "url": "https://linkedin.com/in/tyler-reitz",
+      "user": "linkedin.com/in/tyler-reitz",
+      "dataIcon": "e"
+    },
+    {
+      "label": "codepen",
+      "network": "codepen",
+      "url": "https://codepen.io/tyler-reitz/",
+      "user": "/tyler-reitz"
+    },
+    {
+      "label": "angellist",
+      "network": "angellist",
+      "url": "https://angel.co/tyler-reitz",
+      "user": "/tyler-reitz"
+    }
+  ],
+
+  "employment": {
+    "summary": "~3 years Javascript Development experience in startups, agencies, and enterprise.",
+    "history": [
+      {
+        "position": "Teacher’s Assistant",
+        "employer": "UCLA Extension",
+        "summary": "A continuing education institution headquartered in Westwood, California, on the campus of the University of California, Los Angeles and part of the University of California system.",
+        "start": "2017-04",
+        "end": "2018-04",
+        "url": "https://codingbootcamp.uclaextension.edu/",
+        "location": "Westwood, CA",
+        "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React"],
+        "highlights": [
+          "Lead classroom discussions", 
+          "guide inquiry", 
+          "emphasize the meta-skills and core concepts of software engineering", 
+          "support students in their projects and challenges",
+          "and provide feedback to students"
+        ]
+      },
+      {
+        "position": "Front-End Developer",
+        "employer": "ESSENDANT",
+        "summary": "National wholesale e-commerce distributor with a consolidated net sales of $5.3 billion and ranking of 484 out of the top Fortune 500 companies in 2013",
+        "start": "2016-09",
+        "end": "2016-10",
+        "url": "https://www.essendant.com/",
+        "location": "Remote",
+        "keywords": ["Javascript", "HTML", "CSS", "Node", "Bower"],
+        "highlights": [
+          "Build custom product-grid component using Isotope and jQuery",
+          "Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library",
+          "Quality Assurance: Cross-browser testing of older, outdated browser like IE 9"
+        ]
+      },
+      {
+        "position": "Front-End Developer",
+        "employer": "NOTION",
+        "summary": "A full-service design & development shop catering to small and medium sized business’ digital needs",
+        "start": "2016-08",
+        "end": "2016-09",
+        "url": "https://www.facebook.com/NotionCreativeAgency/",
+        "location": "Culver City",
+        "keywords": ["Javascript", "HTML", "CSS", "Shopify", "Node"],
+        "highlights": [
+          "Bootstrap medium-sized static site from scratch",
+          "Shopify platform integaration",
+          "Heavily customized CSS/Sass using best practices"
+        ]
+      },
+      {
+        "position": "Front-End Developer",
+        "employer": "MC SQAURED",
+        "summary": "Creative agency servicing clients in luxury real estate, fashion, and lifestyle verticles including Coldwell Banker (NYSE: RLGY) w/ a 4.67B market cap and Sapporo (2501:JP) w/ 2.05B market cap",
+        "start": "2016-05",
+        "end": "2016-07",
+        "url": "https://e-mc2.com/",
+        "location": "Los Angeles",
+        "keywords": ["Javascript", "HTML", "CSS", "Node", "Grunt", "Less", "Backbone", "PHP", "Bootstrap"],
+        "highlights": [
+          "Build polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS",
+          "Javascript Development: Implement modular, developer-friendly JS using Backbone models and views",
+          "HTML5 + CSS3: Build and style views using Underscore templating and a custom Bootstrap build",
+          "Quality Assurance: Cross-browser testing of older, outdated browser like IE 9"
+        ]
+      },
+      {
+        "position": "Front-End Developer",
+        "employer": "TRIBUNE PUBLISHING (NYSE: TPUB)",
+        "summary": "Media company w/ 53+ MM unique monthy visitors’s and 335+ MM monthly page views",
+        "start": "2016-05",
+        "end": "2016-07",
+        "url": "https://e-mc2.com/",
+        "location": "Los Angeles",
+        "keywords": ["Javascript", "HTML", "CSS", "Gulp", "Node", "Email", "Publishing"],
+        "highlights": [
+          "Build responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices",
+          "Javascript Development: Author vanilla javascript and jQuery accross campaigns w/ a 200% impact",
+          "HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity"
+        ]
+      },
+      {
+        "position": "User Experience Designer",
+        "employer": "XIVIC INC.",
+        "summary": "A digital agency with 150+ employees servicing clients as large as Staples (NASDAQ: SPLS), a publicly traded mega-retailer with $22.492 billion in revenues, and medium-size outfits like Meineke, Umami Burger, and California Closets",
+        "start": "2015-06",
+        "end": "2015-10",
+        "url": "http://www.xivic.com/",
+        "location": "West Hollywood",
+        "keywords": ["User Experience Design", "Research", "Wireframes", "Information Architecture", "Testing"],
+        "highlights": [
+          "User Experience: Application of user-centered design methods to translate user needs, business objectives, and technology capabilities into pleasurable and profitable experiences for stakeholders and users"
+        ]
+      },
+      {
+        "position": "User Experience Designer",
+        "employer": "SAPIENT NITRO",
+        "summary": "Sapient Nitro is an integrated digital marketing agency within Sapient (a marketing and consulting company)  with employees totalling ~11.5K and $1.305 billion (2013) in revenues with clients like Starbucks and Target",
+        "start": "2014-06",
+        "end": "2014-10",
+        "url": "http://www.sapientnitro.com/en-us.html",
+        "location": "San Francisco",
+        "keywords": ["User Experience Design", "Research", "Wireframes", "Information Architecture", "Testing"],
+        "highlights": [
+          "User Experience: Responsible for the navigation, organization, interaction design, and business/user process engineering for Starbucks’s Project Uno initiative"
+        ]
+      }
+    ]
+  },
+  "education": {
+    "summary": "Tyler has earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io.",
+    "level": "degree",
+    "degree": "BA",
+    "history": [
+      {
+        "institution": "Bloc.io",
+        "location": "San Francisco, CA",
+        "url": "http://bloc.io/",
+        "title": "Front-End Development Apprenticeship",
+        "studyType": "Bootcamp",
+        "start": "2015-01",
+        "end": "2016-01",
+        "summary": "",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "institution": "General Assembly",
+        "location": "Santa Monica, CA",
+        "url": "https://generalassemb.ly/",
+        "title": "User Experience Design Immersive",
+        "studyType": "Bootcamp",
+        "start": "2014-03",
+        "end": "2014-05",
+        "summary": "",
+        "keywords": [],
+        "highlights": []
+      },
+      {
+        "institution": "University of California, Los Angeles",
+        "url": "http://www.ucla.edu/",
+        "location": "Westwood, CA",
+        "title": "Bachelor of Arts – History",
+        "studyType": "Bachelor",
+        "start": "2007-06",
+        "end": "2009-08",
+        "grade": "3.45",
+        "summary": "",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Front-end",
+        "level": "advanced",
+        "skills": [
+          "Babel",
+          "Bootstrap",
+          "CSS",
+          "Chai",
+          "Es6+",
+          "HTML",
+          "Jasmine",
+          "Javascript",
+          "Jest",
+          "Karma",
+          "Mocha",
+          "PostCSS",
+          "React",
+          "Redux",
+          "RWD",
+          "Sass",
+          "Webpack"
+        ]
+      },
+      {
+        "name": "Back-end",
+        "level": "intermediate",
+        "skills": [
+          "Express",
+          "Mongodb",
+          "Mongoose",
+          "MVC",
+          "Mysql",
+          "Node",
+          "Npm",
+          "Npm scripts",
+          "ORM",
+          "Sequelize",
+          "SQL",
+          "REST"
+        ]
+      },
+      {
+        "name": "DevOps",
+        "level": "advanced",
+        "skills": [
+          "Docker",
+          "Git",
+          "Github"
+        ]
+      }
+    ],
+    "list": [
+      {
+        "name": "babel",
+        "summary": "transpiler",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "bootstrap",
+        "summary": "Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development",
+        "level": "advanced",
+        "years": 3
+      },
+      {
+        "name": "css",
+        "summary": "Cascading-Style Sheets",
+        "level": "advanced",
+        "years": 3
+      },
+      {
+        "name": "chai",
+        "summary": "A BDD / TDD assertion library for [node](http://nodejs.org) and the browser",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "docker",
+        "summary": "An open platform to build, ship, and run distributed applications",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "es6+",
+        "summay": "Significant updates to the scripting language of the web",
+        "level": "advanced",
+        "years": 2
+      },
+      {
+        "name": "express",
+        "summay": "A minimal and flexible Node.js web application framework",
+        "level": "advanced",
+        "years": 2
+      },
+      {
+        "name": "git",
+        "summary": "A distributed version control system for tracking and coordinating changes in computer files among teams",
+        "level": "intermediate",
+        "years": 3
+      },
+      {
+        "name": "github",
+        "summary": "web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features",
+        "level": "intermediate",
+        "years": 3
+      },
+      {
+        "name": "html",
+        "summary": "Core language of the World Wide Web: Hypertext Markup Language (HTML)",
+        "level": "master",
+        "years": 3
+      },
+      {
+        "name": "jasmine",
+        "summary": "A behavior-driven development framework for testing JavaScript code.",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "javascript",
+        "summary": "prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles",
+        "level": "advanced",
+        "years": 3
+      },
+      {
+        "name": "jest",
+        "summary": "Faceboooks' complete and easy to set up JavaScript testing solution",
+        "level": "advanced",
+        "years": 3
+      },
+      {
+        "name": "karma",
+        "summary": "A test runner for JavaScript that runs on Node.js",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "mocha",
+        "summary": "Feature-rich JavaScript test framework running on Node.js and in the browser",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "mongodb",
+        "summary": "A free and open-source cross-platform document-oriented database program",
+        "level": "intermediate",
+        "years": 1.5
+      },   
+      {
+        "name": "mongoose",
+        "summary": "MongoDB object modeling tool designed to work in an asynchronous environment",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "mvc",
+        "summary": "Software architectural pattern for implementing user interfaces on computers",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "mysql",
+        "summary": "An open-source relational database management system (RDBMS)",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "node",
+        "summary": "javascript, server, back-end, common.js, express",
+        "level": "advanced",
+        "years": 1.5
+      },
+      {
+        "name": "npm",
+        "summary": "Package manager for JavaScript and the world's largest software registry",
+        "level": "advanced",
+        "years": 2
+      },
+      {
+        "name": "npm scripts",
+        "summary": "Build tooling",
+        "level": "advanced",
+        "years": 2
+      },
+      {
+        "name": "ORM",
+        "summary": "Technique for converting data between incompatible type systems using object-oriented programming languages",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "postcss",
+        "summary": "",
+        "level": "intermediate",
+        "years": 1
+      },
+      {
+        "name": "react",
+        "summary": "facebook",
+        "level": "advanced",
+        "years": 1.5
+      },
+      {
+        "name": "redux",
+        "summary": "A predictable state container for JavaScript apps",
+        "level": "advanced",
+        "years": 1.5
+      },
+      {
+        "name": "REST",
+        "summary": "A way of providing interoperability between computer systems on the Internet",
+        "level": "advanced",
+        "years": 1.5
+      },
+      {
+        "name": "RWD",
+        "summary": "Development practicing the consistant mix of flexible grids and layouts, images and an intelligent use of CSS media queries.",
+        "level": "advanced",
+        "years": 3
+      },
+      {
+        "name": "sass",
+        "summary": "Scripting language that is interpreted or compiled into Cascading Style Sheets (CSS)",
+        "level": "intermediate",
+        "years": 3
+      },
+      {
+        "name": "sequelize",
+        "summary": "Multi-dialect ORM and related tools for Node.js",
+        "level": "intermediate",
+        "years": 1.5
+      },
+      {
+        "name": "webpack",
+        "summary": "A module bundler that supports pre-processing",
+        "level": "advanced",
+        "years": 1.5
+      }
+    ]
+  },
+
+  "samples": [
+    {
+      "title": "notion",
+      "summary": "shopify site",
+      "date": "2016",
+      "highilights": [],
+      "keywords": [
+        "javascript",
+        "sass",
+        "bower",
+        "gulp"]
+    },
+    {
+      "title": "essendant",
+      "summary": "product-grid",
+      "url": "https://github.com/tylerreitz/essendant",
+      "date": "2016",
+      "highilights": [],
+      "keywords": ["javascript", "sass", "gulp", "npm"]
+    },
+    {
+      "title": "harbor",
+      "summary": "hotel micro-site",
+      "url": "http://1700southharbor.com/",
+      "date": "2015",
+      "highilights": [],
+      "keywords": ["backbone.js", "less", "php", "laravel"]
+    },
+    {
+      "title": "anabella",
+      "summary": "hotel micro-site",
+      "url": "http://1030westkatella.com/",
+      "date": "2015",
+      "highilights": [],
+      "keywords": ["backbone.js", "less", "php", "laravel"]
+    },
+    {
+      "title": "red-cherry",
+      "summary": "e-commerce site",
+      "url": "https://shopredcherry.com/",
+      "date": "2015",
+      "highilights": [],
+      "keywords": ["backbone.js", "less", "php", "laravel"]
+    },
+    {
+      "title": "trib-pub",
+      "summary": "email + landing pages",
+      "date": "2015",
+      "highilights": [],
+      "keywords": ["javascript", "sass", "gulp"]
+    },
+    {
+      "title": "bloc-jams",
+      "summary": "angluar Rdio clone",
+      "url": "https://github.com/tylerreitz/bloc-jams-angular",
+      "date": "2014",
+      "highilights": [],
+      "keywords": ["angular.js", "grunt", "sass"]
+    }
+  ],
+
+  "disposition": {
+    "travel": 20,
+    "authorization": "citizen",
+    "commitment": [ "contract", "permanent", "full-time" ],
+    "remote": true,
+    "relocation": {
+      "willing": "open",
+      "destinations": [
+        "San Francisco",
+        "Chicago",
+        "New York"
+      ]
+    }
+  },
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}

@@ -68,36 +68,6 @@ University of California, Los Angeles (2007-06 — 2009-08)
 
 
 
-SAMPLES ------------------------------------------------------------------------
-
-notion (2016-01)
-
-shopify site
-
-essendant (2016-01)
-
-product-grid
-
-harbor (2015-01)
-
-hotel micro-site
-
-anabella (2015-01)
-
-hotel micro-site
-
-red-cherry (2015-01)
-
-e-commerce site
-
-trib-pub (2015-01)
-
-email + landing pages
-
-bloc-jams (2014-01)
-
-angluar Rdio clone
-
 
 
 

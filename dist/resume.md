@@ -81,36 +81,6 @@ Sapient Nitro is an integrated digital marketing agency within Sapient (a market
 
 
 
-## SAMPLES
-
-### notion (2016-01)
-
-shopify site
-
-### [essendant](https://github.com/tylerreitz/essendant) (2016-01)
-
-product-grid
-
-### [harbor](http://1700southharbor.com/) (2015-01)
-
-hotel micro-site
-
-### [anabella](http://1030westkatella.com/) (2015-01)
-
-hotel micro-site
-
-### [red-cherry](https://shopredcherry.com/) (2015-01)
-
-e-commerce site
-
-### trib-pub (2015-01)
-
-email + landing pages
-
-### [bloc-jams](https://github.com/tylerreitz/bloc-jams-angular) (2014-01)
-
-angluar Rdio clone
-
 
 
 
