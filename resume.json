@@ -276,139 +276,139 @@
         "name": "babel",
         "summary": "transpiler",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "bootstrap",
         "summary": "Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development",
         "level": "advanced",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "css",
         "summary": "Cascading-Style Sheets",
         "level": "advanced",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "chai",
         "summary": "A BDD / TDD assertion library for [node](http://nodejs.org) and the browser",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "docker",
         "summary": "An open platform to build, ship, and run distributed applications",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "es6+",
         "summay": "Significant updates to the scripting language of the web",
         "level": "advanced",
-        "years": 2
+        "years": 1451606400000
       },
       {
         "name": "express",
         "summay": "A minimal and flexible Node.js web application framework",
         "level": "advanced",
-        "years": 2
+        "years": 1451606400000
       },
       {
         "name": "git",
         "summary": "A distributed version control system for tracking and coordinating changes in computer files among teams",
         "level": "intermediate",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "github",
         "summary": "web-based Git or version control repository and Internet hosting service. It is mostly used for code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features",
         "level": "intermediate",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "html",
         "summary": "Core language of the World Wide Web: Hypertext Markup Language (HTML)",
         "level": "master",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "jasmine",
         "summary": "A behavior-driven development framework for testing JavaScript code.",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "javascript",
         "summary": "prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles",
         "level": "advanced",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "jest",
         "summary": "Faceboooks' complete and easy to set up JavaScript testing solution",
         "level": "advanced",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "karma",
         "summary": "A test runner for JavaScript that runs on Node.js",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "mocha",
         "summary": "Feature-rich JavaScript test framework running on Node.js and in the browser",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "mongodb",
         "summary": "A free and open-source cross-platform document-oriented database program",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },   
       {
         "name": "mongoose",
         "summary": "MongoDB object modeling tool designed to work in an asynchronous environment",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "mvc",
         "summary": "Software architectural pattern for implementing user interfaces on computers",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "mysql",
         "summary": "An open-source relational database management system (RDBMS)",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "node",
         "summary": "javascript, server, back-end, common.js, express",
         "level": "advanced",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "npm",
         "summary": "Package manager for JavaScript and the world's largest software registry",
         "level": "advanced",
-        "years": 2
+        "years": 1451606400000
       },
       {
         "name": "npm scripts",
         "summary": "Build tooling",
         "level": "advanced",
-        "years": 2
+        "years": 1451606400000
       },
       {
         "name": "ORM",
         "summary": "Technique for converting data between incompatible type systems using object-oriented programming languages",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "postcss",
@@ -420,43 +420,43 @@
         "name": "react",
         "summary": "facebook",
         "level": "advanced",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "redux",
         "summary": "A predictable state container for JavaScript apps",
         "level": "advanced",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "REST",
         "summary": "A way of providing interoperability between computer systems on the Internet",
         "level": "advanced",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "RWD",
         "summary": "Development practicing the consistant mix of flexible grids and layouts, images and an intelligent use of CSS media queries.",
         "level": "advanced",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "sass",
         "summary": "Scripting language that is interpreted or compiled into Cascading Style Sheets (CSS)",
         "level": "intermediate",
-        "years": 3
+        "years": 1420070400000
       },
       {
         "name": "sequelize",
         "summary": "Multi-dialect ORM and related tools for Node.js",
         "level": "intermediate",
-        "years": 1.5
+        "years": 1451606400000
       },
       {
         "name": "webpack",
         "summary": "A module bundler that supports pre-processing",
         "level": "advanced",
-        "years": 1.5
+        "years": 1451606400000
       }
     ]
   },
