@@ -9,7 +9,7 @@
   "info": {
     "label": "Full-Stack Javascript Developer",
     "class": "Software Engineer",
-    "brief": "Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.",
+    "brief": "Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He's and asprigin software engineer who is currently focused on Javascript and  the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.",
     "image": "profile.jpeg",
     "quote": "It's not a bug, it's a feature"
   },
@@ -26,7 +26,7 @@
     "region": "California",
     "country": "US",
     "code": "90013",
-    "address": "430 S. Broadway"
+    "address": ""
   },
 
   "social": [
@@ -62,6 +62,12 @@
       "network": "angellist",
       "url": "https://angel.co/tyler-reitz",
       "user": "/tyler-reitz"
+    },
+    {
+      "label": "medium",
+      "network": "angellist",
+      "url": "https://medium.com/@tylerreitz",
+      "user": "/tylerreitz"
     }
   ],
 
