@@ -67,7 +67,7 @@
       "label": "medium",
       "network": "angellist",
       "url": "https://medium.com/@tylerreitz",
-      "user": "/tylerreitz"
+      "user": "/tyler-reitz"
     }
   ],
 
@@ -230,41 +230,35 @@
         "name": "Front-end",
         "level": "advanced",
         "skills": [
-          "Babel",
-          "Bootstrap",
-          "CSS",
-          "Chai",
-          "Es6+",
           "HTML",
-          "Jasmine",
-          "Javascript",
-          "Jest",
-          "Karma",
-          "Mocha",
-          "PostCSS",
-          "React",
-          "Redux",
-          "RWD",
+          "CSS",
           "Sass",
-          "Webpack"
+          "PostCSS",
+          "Bootstrap",
+          "Javascript",
+          "Es6+",
+          "Babel",
+          "Webpack",
+          "React",
+          "Redux"
         ]
       },
       {
         "name": "Back-end",
         "level": "intermediate",
         "skills": [
-          "Express",
-          "Mongodb",
-          "Mongoose",
-          "MVC",
-          "Mysql",
           "Node",
           "Npm",
-          "Npm scripts",
-          "ORM",
-          "Sequelize",
+          "Express",
+          "noSQL",
+          "Mongodb",
+          "Mongoose",
           "SQL",
-          "REST"
+          "Mysql",
+          "Sequelize",
+          "REST",
+          "MVC",
+          "ORM"
         ]
       },
       {
