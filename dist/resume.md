@@ -4,12 +4,12 @@ Email: tdreitz@gmail.com
 Tel: 818-424-6393
 Web: http://tylerreitz.co
 
-Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.
+Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He's and aspriing software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.
 
 ## SKILLS
 
-  - Front-end: Babel Bootstrap CSS Chai Es6+ HTML Jasmine Javascript Jest Karma Mocha PostCSS React Redux RWD Sass Webpack 
-  - Back-end: Express Mongodb MVC Mysql Node Npm Npm scripts ORM Sequelize SQL REST 
+  - Front-end: HTML CSS Sass PostCSS Bootstrap Javascript Es6+ Babel Webpack React Redux 
+  - Back-end: Node Npm Express noSQL Mongodb Mongoose SQL Mysql Sequelize REST MVC ORM 
   - DevOps: Docker Git Github 
 
 ## EMPLOYMENT

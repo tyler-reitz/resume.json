@@ -506,7 +506,7 @@
           </w:r>
         </w:hlink>
       </w:p>
-      <w:p><w:r><w:rPr></w:rPr><w:t>Tyler hails from Los Angeles, CA. He’s earned degrees from and/or studied at the University of California, Los Angeles, General Assembly, and Bloc.io. His work focuses on front-end development, Javascript, and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.</w:t></w:r></w:p>
+      <w:p><w:r><w:rPr></w:rPr><w:t>Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He's and aspriing software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.</w:t></w:r></w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
     <w:pPr>
@@ -546,7 +546,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Babel, Bootstrap, CSS, Chai, Es6+, HTML, Jasmine, Javascript, Jest, Karma, Mocha, PostCSS, React, Redux, RWD, Sass, Webpack</w:t>
+            <w:t>HTML, CSS, Sass, PostCSS, Bootstrap, Javascript, Es6+, Babel, Webpack, React, Redux</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -572,7 +572,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Express, Mongodb, MVC, Mysql, Node, Npm, Npm scripts, ORM, Sequelize, SQL, REST</w:t>
+            <w:t>Node, Npm, Express, noSQL, Mongodb, Mongoose, SQL, Mysql, Sequelize, REST, MVC, ORM</w:t>
           </w:r>
         </w:p>
       </w:tc>
