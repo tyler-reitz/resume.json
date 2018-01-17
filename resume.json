@@ -288,12 +288,6 @@
         "years": 1420070400000
       },
       {
-        "name": "chai",
-        "summary": "A BDD / TDD assertion library for [node](http://nodejs.org) and the browser",
-        "level": "intermediate",
-        "years": 1451606400000
-      },
-      {
         "name": "docker",
         "summary": "An open platform to build, ship, and run distributed applications",
         "level": "intermediate",
@@ -330,12 +324,6 @@
         "years": 1420070400000
       },
       {
-        "name": "jasmine",
-        "summary": "A behavior-driven development framework for testing JavaScript code.",
-        "level": "intermediate",
-        "years": 1451606400000
-      },
-      {
         "name": "javascript",
         "summary": "prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles",
         "level": "advanced",
@@ -346,12 +334,6 @@
         "summary": "Faceboooks' complete and easy to set up JavaScript testing solution",
         "level": "advanced",
         "years": 1420070400000
-      },
-      {
-        "name": "karma",
-        "summary": "A test runner for JavaScript that runs on Node.js",
-        "level": "intermediate",
-        "years": 1451606400000
       },
       {
         "name": "mocha",
@@ -368,12 +350,6 @@
       {
         "name": "mongoose",
         "summary": "MongoDB object modeling tool designed to work in an asynchronous environment",
-        "level": "intermediate",
-        "years": 1451606400000
-      },
-      {
-        "name": "mvc",
-        "summary": "Software architectural pattern for implementing user interfaces on computers",
         "level": "intermediate",
         "years": 1451606400000
       },
@@ -406,12 +382,6 @@
         "summary": "Technique for converting data between incompatible type systems using object-oriented programming languages",
         "level": "intermediate",
         "years": 1451606400000
-      },
-      {
-        "name": "postcss",
-        "summary": "",
-        "level": "intermediate",
-        "years": 1
       },
       {
         "name": "react",
