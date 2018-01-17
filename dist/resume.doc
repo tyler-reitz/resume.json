@@ -506,7 +506,7 @@
           </w:r>
         </w:hlink>
       </w:p>
-      <w:p><w:r><w:rPr></w:rPr><w:t>Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He's and aspriing software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.</w:t></w:r></w:p>
+      <w:p><w:r><w:rPr></w:rPr><w:t>Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He's an aspring software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.</w:t></w:r></w:p>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
     <w:pPr>
@@ -535,6 +535,32 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
+            <w:t>Isomorphic:</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="8000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
+            <w:t>Javascript, Es6+, React, Redux, GraphQL, TDD, Mocha, Jest</w:t>
+          </w:r>
+        </w:p>
+      </w:tc>
+    </w:tr>
+
+
+    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
+      <w:tc>
+        <w:tcPr>
+          <w:tcW w:w="3000" w:type="dxa"/>
+          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
+        </w:tcPr>
+        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
+          <w:r>
             <w:t>Front-end:</w:t>
           </w:r>
         </w:p>
@@ -546,7 +572,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>HTML, CSS, Sass, PostCSS, Bootstrap, Javascript, Es6+, Babel, Webpack, React, Redux</w:t>
+            <w:t>HTML, DOM, Browser APIs, CSS, Sass, PostCSS, CSS-in-JS, Babel, Webpack</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -572,7 +598,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Node, Npm, Express, noSQL, Mongodb, Mongoose, SQL, Mysql, Sequelize, REST, MVC, ORM</w:t>
+            <w:t>Node, Npm, Express, SQL/noSQL, Mongodb, Mongoose, Mysql, Sequelize, ORMs, REST, MVC</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -598,7 +624,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>Docker, Git, Github</w:t>
+            <w:t>Containers, Docker, VCS, Git, Github, CI/CD, AWS, Cloud Providers</w:t>
           </w:r>
         </w:p>
       </w:tc>

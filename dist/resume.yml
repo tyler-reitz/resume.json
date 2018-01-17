@@ -5,7 +5,7 @@ meta:
 info:
   label: 'Full-Stack Javascript Developer'
   class: 'Software Engineer'
-  brief: 'Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He''s and aspriing software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.'
+  brief: 'Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He''s an aspring software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.'
   image: profile.jpeg
   quote: 'It''s not a bug, it''s a feature'
 contact:
@@ -38,11 +38,6 @@ social:
     url: 'https://linkedin.com/in/tyler-reitz'
     user: linkedin.com/in/tyler-reitz
     dataIcon: e
-  -
-    label: codepen
-    network: codepen
-    url: 'https://codepen.io/tyler-reitz/'
-    user: /tyler-reitz
   -
     label: angellist
     network: angellist
@@ -230,20 +225,30 @@ education:
 skills:
   sets:
     -
+      name: Isomorphic
+      level: advanced
+      skills:
+        - Javascript
+        - Es6+
+        - React
+        - Redux
+        - GraphQL
+        - TDD
+        - Mocha
+        - Jest
+    -
       name: Front-end
       level: advanced
       skills:
         - HTML
+        - DOM
+        - 'Browser APIs'
         - CSS
         - Sass
         - PostCSS
-        - Bootstrap
-        - Javascript
-        - Es6+
+        - CSS-in-JS
         - Babel
         - Webpack
-        - React
-        - Redux
     -
       name: Back-end
       level: intermediate
@@ -251,22 +256,26 @@ skills:
         - Node
         - Npm
         - Express
-        - noSQL
+        - SQL/noSQL
         - Mongodb
         - Mongoose
-        - SQL
         - Mysql
         - Sequelize
+        - ORMs
         - REST
         - MVC
-        - ORM
     -
       name: DevOps
-      level: advanced
+      level: intermediate
       skills:
+        - Containers
         - Docker
+        - VCS
         - Git
         - Github
+        - CI/CD
+        - AWS
+        - 'Cloud Providers'
   list:
     -
       name: babel
@@ -283,11 +292,6 @@ skills:
       summary: 'Cascading-Style Sheets'
       level: advanced
       years: 1420070400000
-    -
-      name: chai
-      summary: 'A BDD / TDD assertion library for [node](http://nodejs.org) and the browser'
-      level: intermediate
-      years: 1451606400000
     -
       name: docker
       summary: 'An open platform to build, ship, and run distributed applications'
@@ -319,11 +323,6 @@ skills:
       level: master
       years: 1420070400000
     -
-      name: jasmine
-      summary: 'A behavior-driven development framework for testing JavaScript code.'
-      level: intermediate
-      years: 1451606400000
-    -
       name: javascript
       summary: 'prototype-based, multi-paradigm, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles'
       level: advanced
@@ -333,11 +332,6 @@ skills:
       summary: 'Faceboooks'' complete and easy to set up JavaScript testing solution'
       level: advanced
       years: 1420070400000
-    -
-      name: karma
-      summary: 'A test runner for JavaScript that runs on Node.js'
-      level: intermediate
-      years: 1451606400000
     -
       name: mocha
       summary: 'Feature-rich JavaScript test framework running on Node.js and in the browser'
@@ -351,11 +345,6 @@ skills:
     -
       name: mongoose
       summary: 'MongoDB object modeling tool designed to work in an asynchronous environment'
-      level: intermediate
-      years: 1451606400000
-    -
-      name: mvc
-      summary: 'Software architectural pattern for implementing user interfaces on computers'
       level: intermediate
       years: 1451606400000
     -
@@ -383,11 +372,6 @@ skills:
       summary: 'Technique for converting data between incompatible type systems using object-oriented programming languages'
       level: intermediate
       years: 1451606400000
-    -
-      name: postcss
-      summary: ""
-      level: intermediate
-      years: 1
     -
       name: react
       summary: facebook
