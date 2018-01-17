@@ -221,24 +221,40 @@
   },
 
   "skills": {
+
     "sets": [
+
+      {
+        "name": "Isomorphic",
+        "level": "advanced",
+        "skills": [
+          "Javascript",
+          "Es6+",
+          "React",
+          "Redux",
+          "GraphQL",
+          "TDD",
+          "Mocha",
+          "Jest"
+        ]
+      },
+
       {
         "name": "Front-end",
         "level": "advanced",
         "skills": [
           "HTML",
+          "DOM",
+          "Browser APIs",
           "CSS",
           "Sass",
           "PostCSS",
-          "Bootstrap",
-          "Javascript",
-          "Es6+",
+          "CSS-in-JS",
           "Babel",
-          "Webpack",
-          "React",
-          "Redux"
+          "Webpack"
         ]
       },
+
       {
         "name": "Back-end",
         "level": "intermediate",
@@ -246,26 +262,33 @@
           "Node",
           "Npm",
           "Express",
-          "noSQL",
+          "SQL/noSQL",
           "Mongodb",
           "Mongoose",
-          "SQL",
           "Mysql",
           "Sequelize",
+          "ORMs",
           "REST",
-          "MVC",
-          "ORM"
+          "MVC"
         ]
       },
+
+
       {
         "name": "DevOps",
-        "level": "advanced",
+        "level": "intermediate",
         "skills": [
+          "Containers",
           "Docker",
+          "VCS",
           "Git",
-          "Github"
+          "Github",
+          "CI/CD",
+          "AWS",
+          "Cloud Providers"
         ]
       }
+
     ],
 
     "list": [
