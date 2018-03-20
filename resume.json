@@ -69,6 +69,23 @@
     "summary": "~3 years Javascript Development experience in startups, agencies, and enterprise.",
     "history": [
       {
+        "position": "Front End Developer",
+        "employer": "Further",
+        "summary": "Further is a Los Angeles-based branding, creative and digital strategy agency specialize in custom web design, social media, brand & product development, native/digital advertising and search engine marketing.",
+        "start": "2018-03",
+        "end": "ongoing",
+        "url": "",
+        "location": "Pasadena",
+        "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React"],
+        "highlights": [
+          "take static designs to complete coded, tested and launched websites", 
+          "slice PSD designs with pixel perfect implementation", 
+          "large focus on UX with innovative animation touches", 
+          "shopify customization/theming (Liquid a +++), Wordpress theming and debugging",
+          "general website upkeep and maintenance"
+        ]
+      },
+      {
         "position": "Teacher’s Assistant",
         "employer": "UCLA Extension",
         "summary": "A continuing education institution headquartered in Westwood, California, on the campus of the University of California, Los Angeles and part of the University of California system.",
@@ -78,7 +95,7 @@
         "location": "Westwood, CA",
         "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React"],
         "highlights": [
-          "Lead classroom discussions", 
+          "lead classroom discussions", 
           "guide inquiry", 
           "emphasize the meta-skills and core concepts of software engineering", 
           "support students in their projects and challenges",
