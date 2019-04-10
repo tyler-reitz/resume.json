@@ -168,6 +168,17 @@
     "degree": "BA",
     "history": [
       {
+        "institution": "Santa Monica College",
+        "location": "Santa Monica, CA",
+        "url": "http://smc.edu",
+        "title": "Associates Degree, Computer Science",
+        "studyType": "Associates Science",
+        "start": "2018-06",
+        "end": "2019-06",
+        "summary": "",
+        "keywords": [],
+        "highlights": []
+      },      {
         "institution": "Bloc.io",
         "location": "San Francisco, CA",
         "url": "http://bloc.io/",
