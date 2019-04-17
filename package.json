@@ -15,7 +15,7 @@
   "scripts": {
     "prebuild": "rm -rf dist/* && npm run validate",
     "build": "hackmyresume BUILD resume.json TO dist/resume.all -t compact",
-    "postbuild": "rm ./dist/resume.pdf && wkhtmltopdf --zoom 3.75 ./dist/resume.html ./dist/resume.pdf",
+    "postbuild": "wkhtmltopdf --zoom 3.75 ./dist/resume.html ./dist/resume.pdf",
     "validate": "hackmyresume VALIDATE resume.json",
     "analyze": "hackmyresume ANALYZE resume.json"
   },
