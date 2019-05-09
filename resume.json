@@ -162,6 +162,24 @@
     ]
   },
 
+  "projects": [
+    {
+      "title": "React95",
+      "start": "2019-04",
+      "category": "FOSS",
+      "url": "https://react95.io/",
+      "repo": "https://github.com/arturbien/React95",
+      "media": [],
+      "role": "Contributor",
+      "summary": "Regular contributions include reviewing, implementing, and testing core components and additions to the library",
+      "description": "React UI components library with a refreshed Windows 95 style",
+      "highlights": [
+        "Testing w/ Jest/Enzyme", "CI/CD", "Component design and implementation"
+      ],
+      "keywords": ["React", "UI", "Github", "library"]
+    }
+  ],
+
   "education": {
     "summary": "Tyler has earned degrees from the University of California, Los Angeles, General Assembly, and Bloc.io.",
     "level": "degree",
