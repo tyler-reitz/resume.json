@@ -39,14 +39,16 @@
 
 {{#*inline "body-employment" }}
 <div>
-  <h3><em>{{ position }}</em>,
-    {{#if url }}
-    <a href="{{{ url }}}">{{ employer }}</a>
-    {{else}}
-    {{ employer }}
-    {{/if}}
-    </h3>
-    <span class="tenure">{{dateRange .}}</span>
+  <div style="display: flex; justify-content: space-between; align-items: baseline">
+    <h3><em>{{ position }}</em>,
+      {{#if url }}
+      <a href="{{{ url }}}">{{ employer }}</a>
+      {{else}}
+      {{ employer }}
+      {{/if}}
+      </h3>
+      <span class="tenure">{{dateRange .}}</span>
+  </div>
   <p>{{{ summary }}}</p>
   {{> highlights }}
   {{#if keywords}}
