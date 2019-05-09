@@ -1,0 +1,89 @@
+{
+  "_args": [
+    [
+      "fresh-themes@0.15.1-beta",
+      "/home/tyler/Desktop/resume.json"
+    ]
+  ],
+  "_development": true,
+  "_from": "fresh-themes@0.15.1-beta",
+  "_id": "fresh-themes@0.15.1-beta",
+  "_inBundle": false,
+  "_integrity": "sha1-5QfLEpp1iqArabliWoCfWLZQktg=",
+  "_location": "/fresh-themes",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "fresh-themes@0.15.1-beta",
+    "name": "fresh-themes",
+    "escapedName": "fresh-themes",
+    "rawSpec": "0.15.1-beta",
+    "saveSpec": null,
+    "fetchSpec": "0.15.1-beta"
+  },
+  "_requiredBy": [
+    "/hackmyresume"
+  ],
+  "_resolved": "https://registry.npmjs.org/fresh-themes/-/fresh-themes-0.15.1-beta.tgz",
+  "_spec": "0.15.1-beta",
+  "_where": "/home/tyler/Desktop/resume.json",
+  "author": {
+    "name": "hacksalot",
+    "email": "hacksalot@indevious.com",
+    "url": "https://github.com/hacksalot"
+  },
+  "bugs": {
+    "url": "https://github.com/fluentdesk/fresh-themes/issues"
+  },
+  "contributors": [
+    {
+      "name": "Brett Hardin",
+      "url": "https://github.com/bhardin"
+    },
+    {
+      "name": "Evan Plaice",
+      "email": "evanplaice@gmail.com",
+      "url": "https://github.com/evanplaice"
+    },
+    {
+      "name": "Ya Zhuang",
+      "url": "https://github.com/zhuangya"
+    },
+    {
+      "name": "hacksalot",
+      "email": "hacksalot@indevious.com",
+      "url": "https://github.com/hacksalot"
+    }
+  ],
+  "dependencies": {},
+  "description": "Multiformat themes and templates for your résumé / CV.",
+  "homepage": "https://github.com/fluentdesk/fresh-themes",
+  "keywords": [
+    "résumé",
+    "resume",
+    "CV",
+    "employment",
+    "portfolio",
+    "Handlebars",
+    "Underscore",
+    "Markdown",
+    "LaTeX",
+    "HTML",
+    "Word",
+    "Microsoft Word",
+    "PDF",
+    "Acrobat",
+    "Adobe",
+    "JSON",
+    "YAML"
+  ],
+  "license": "MIT",
+  "main": "README.md",
+  "name": "fresh-themes",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluentdesk/fresh-themes.git"
+  },
+  "version": "0.15.1-beta"
+}
