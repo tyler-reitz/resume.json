@@ -9,7 +9,7 @@
   "info": {
     "label": "Full-Stack Javascript Developer",
     "class": "Software Engineer",
-    "brief": "Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He's an aspring software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.",
+    "brief": "Tyler hails from Los Angeles, CA and has earned degrees from and/or studied at the University of California Los Angeles, General Assembly, and Bloc.io. He's an aspiring software engineer who is currently focused on Javascript and the blazing speed at which the accompanying ecosystem changes. Non-work interests range widely, including everything from machine learning to startups.",
     "image": "profile.jpeg",
     "quote": ""
   },
@@ -65,7 +65,7 @@
       {
         "position": "Front End Developer",
         "employer": "Further",
-        "summary": "Further is a Los Angeles-based branding, creative and digital strategy agency specialize in custom web design, social media, brand & product development, native/digital advertising and search engine marketing.",
+        "summary": "Further is a Los Angeles-based branding, creative and digital strategy agency specialized in custom web design, social media, brand & product development, native/digital advertising and search engine marketing.",
         "start": "2018-03",
         "end": "2018-06",
         "url": "",
@@ -109,8 +109,8 @@
         "keywords": ["Javascript", "HTML", "CSS", "Node", "Bower"],
         "highlights": [
           "Build custom product-grid component using Isotope and jQuery",
-          "Javascript Development: Implement IE-9 compatiblilty product grid system on top of Masonry library",
-          "Quality Assurance: Cross-browser testing of older, outdated browser like IE 9"
+          "Javascript Development: Implement IE-9 compatibility product grid system on top of Masonry library",
+          "Quality Assurance: Cross-browser testing of older, outdated browsers like IE 9"
         ]
       },
       {
@@ -124,14 +124,14 @@
         "keywords": ["Javascript", "HTML", "CSS", "Shopify", "Node"],
         "highlights": [
           "Bootstrap medium-sized static site from scratch",
-          "Shopify platform integaration",
+          "Shopify platform integration",
           "Heavily customized CSS/Sass using best practices"
         ]
       },
       {
         "position": "Front-End Developer",
         "employer": "MC SQAURED",
-        "summary": "Creative agency servicing clients in luxury real estate, fashion, and lifestyle verticles including Coldwell Banker (NYSE: RLGY) w/ a 4.67B market cap and Sapporo (2501:JP) w/ 2.05B market cap",
+        "summary": "Creative agency servicing clients in luxury real estate, fashion, and lifestyle verticals including Coldwell Banker (NYSE: RLGY) w/ a 4.67B market cap and Sapporo (2501:JP) w/ 2.05B market cap",
         "start": "2016-05",
         "end": "2016-07",
         "url": "https://e-mc2.com/",
@@ -140,14 +140,14 @@
         "highlights": [
           "Build polished micro-site, landing pages, and e-commerce solutions using Backbone, Require, Bower, and LESS",
           "Javascript Development: Implement modular, developer-friendly JS using Backbone models and views",
-          "HTML5 + CSS3: Build and style views using Underscore templating and a custom Bootstrap build",
-          "Quality Assurance: Cross-browser testing of older, outdated browser like IE 9"
+          "HTML5 + CSS3: Build and styled views using Underscore templating and a custom Bootstrap build",
+          "Quality Assurance: Cross-browser testing of older, outdated browsers like IE 9"
         ]
       },
       {
         "position": "Front-End Developer",
         "employer": "TRIBUNE PUBLISHING (NYSE: TPUB)",
-        "summary": "Media company w/ 53+ MM unique monthy visitors’s and 335+ MM monthly page views",
+        "summary": "Media company w/ 53+ MM unique monthly visitors’s and 335+ MM monthly page views",
         "start": "2016-02",
         "end": "2016-04",
         "url": "https://e-mc2.com/",
@@ -155,8 +155,8 @@
         "keywords": ["Javascript", "HTML", "CSS", "Gulp", "Node", "Email", "Publishing"],
         "highlights": [
           "Build responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices",
-          "Javascript Development: Author vanilla javascript and jQuery accross campaigns w/ a 200% impact",
-          "HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainablity"
+          "Javascript Development: Author vanilla javascript and jQuery across campaigns w/ a 200% impact",
+          "HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainability"
         ]
       }
     ]
