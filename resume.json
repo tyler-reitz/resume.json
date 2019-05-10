@@ -177,6 +177,36 @@
         "Testing w/ Jest/Enzyme", "CI/CD", "Component design and implementation"
       ],
       "keywords": ["React", "UI", "Github", "library"]
+    },
+    {
+      "title": "all-contributors-cli",
+      "start": "2018-06",
+      "category": "FOSS",
+      "url": "https://allcontributors.org/",
+      "repo": "https://github.com/all-contributors/all-contributors-cli",
+      "media": [],
+      "role": "Contributor",
+      "summary": "Contributions include reviewing, implementing, and testing core components and additions to the library",
+      "description": "Tool to help automate adding contributor acknowledgements according to the all-contributors specification",
+      "highlights": [
+        "Usability enhancement", "Bugfixes", "Feature addition"
+      ],
+      "keywords": ["React", "UI", "Github", "library"]
+    },
+    {
+      "title": "ReactStateMuseum",
+      "start": "2018-05",
+      "category": "FOSS",
+      "url": "https://github.com/GantMan/ReactStateMuseum",
+      "repo": "https://github.com/GantMan/ReactStateMuseum",
+      "media": [],
+      "role": "Contributor",
+      "summary": "Setup all-contributors script pipeline and automation",
+      "description": "A whirlwind tour of React state management systems by example",
+      "highlights": [
+        "Community", "Feature addition"
+      ],
+      "keywords": ["React", "UI", "Github", "library"]
     }
   ],
 
