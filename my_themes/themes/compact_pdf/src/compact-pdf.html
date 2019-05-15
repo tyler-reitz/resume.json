@@ -59,18 +59,20 @@
 
 {{#*inline "body-projects" }}
 <div>
-  <h3><em>{{ role }}</em>,
-    {{#if url }}
-    <a href="{{{ url }}}">{{ title }}</a>
-    {{else}}
-    {{ title }}
-    {{/if}}
-    </h3>
-    <span class="tenure">{{dateRange .}}</span>
-  <p>{{{ summary }}}</p>
+  <div style="display: flex; justify-content: space-between; align-items: baseline">
+    <h3><em>{{ role }}</em>,
+      {{#if url }}
+      <a href="{{{ url }}}">{{ title }}</a>
+      {{else}}
+      {{ employer }}
+      {{/if}}
+      </h3>
+      <span class="tenure">{{dateRange .}}</span>
+  </div>
+  <p>{{{ description }}}</p>
   {{> highlights }}
   {{#if keywords}}
-  <span class="keywords">{{#each keywords}}{{{ . }}} {{/each}}</span>
+  <small class="keywords">{{#each keywords}}{{{ . }}} {{/each}}</small>
   {{/if}}
 </div>
 {{/inline}}
