@@ -66,8 +66,8 @@
         "position": "Front End Developer",
         "employer": "Further",
         "summary": "Further is a Los Angeles-based branding, creative and digital strategy agency specialized in custom web design, social media, brand & product development, native/digital advertising and search engine marketing.",
-        "start": "2018-03",
-        "end": "2018-06",
+        "start": "2018-01-1",
+        "end": "2018-08-01",
         "url": "",
         "location": "Pasadena",
         "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React"],
@@ -85,14 +85,14 @@
         "position": "Teacher’s Assistant",
         "employer": "UCLA Extension",
         "summary": "A continuing education institution headquartered in Westwood, California, on the campus of the University of California, Los Angeles and part of the University of California system.",
-        "start": "2017-04",
-        "end": "2018-04",
+        "start": "2017-04-01",
+        "end": "2017-11-01",
         "url": "https://codingbootcamp.uclaextension.edu/",
         "location": "Westwood, CA",
         "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React"],
         "highlights": [
           "lead classroom discussions", 
-          "guide inquiry", 
+          "guided inquiry", 
           "emphasize the meta-skills and core concepts of software engineering", 
           "support students in their projects and challenges",
           "and provide feedback to students"
@@ -100,40 +100,10 @@
       },
       {
         "position": "Front-End Developer",
-        "employer": "ESSENDANT",
-        "summary": "National wholesale e-commerce distributor with a consolidated net sales of $5.3 billion and ranking of 484 out of the top Fortune 500 companies in 2013",
-        "start": "2016-09",
-        "end": "2016-10",
-        "url": "https://www.essendant.com/",
-        "location": "Remote",
-        "keywords": ["Javascript", "HTML", "CSS", "Node", "Bower"],
-        "highlights": [
-          "Build custom product-grid component using Isotope and jQuery",
-          "Javascript Development: Implement IE-9 compatibility product grid system on top of Masonry library",
-          "Quality Assurance: Cross-browser testing of older, outdated browsers like IE 9"
-        ]
-      },
-      {
-        "position": "Front-End Developer",
-        "employer": "NOTION",
-        "summary": "A full-service design & development shop catering to small and medium sized business’ digital needs",
-        "start": "2016-08",
-        "end": "2016-09",
-        "url": "https://www.facebook.com/NotionCreativeAgency/",
-        "location": "Culver City",
-        "keywords": ["Javascript", "HTML", "CSS", "Shopify", "Node"],
-        "highlights": [
-          "Bootstrap medium-sized static site from scratch",
-          "Shopify platform integration",
-          "Heavily customized CSS/Sass using best practices"
-        ]
-      },
-      {
-        "position": "Front-End Developer",
         "employer": "MC SQAURED",
         "summary": "Creative agency servicing clients in luxury real estate, fashion, and lifestyle verticals including Coldwell Banker (NYSE: RLGY) w/ a 4.67B market cap and Sapporo (2501:JP) w/ 2.05B market cap",
-        "start": "2016-05",
-        "end": "2016-07",
+        "start": "2016-10-01",
+        "end": "2017-09-01",
         "url": "https://e-mc2.com/",
         "location": "Los Angeles",
         "keywords": ["Javascript", "HTML", "CSS", "Node", "Grunt", "Less", "Backbone", "PHP", "Bootstrap"],
@@ -148,8 +118,8 @@
         "position": "Front-End Developer",
         "employer": "TRIBUNE PUBLISHING (NYSE: TPUB)",
         "summary": "Media company w/ 53+ MM unique monthly visitors’s and 335+ MM monthly page views",
-        "start": "2016-02",
-        "end": "2016-04",
+        "start": "2016-01-01",
+        "end": "2016-09-01",
         "url": "https://e-mc2.com/",
         "location": "Los Angeles",
         "keywords": ["Javascript", "HTML", "CSS", "Gulp", "Node", "Email", "Publishing"],
@@ -165,7 +135,7 @@
   "projects": [
     {
       "title": "React95",
-      "start": "2019-04",
+      "start": "2019-04-01",
       "category": "FOSS",
       "url": "https://react95.io/",
       "repo": "https://github.com/arturbien/React95",
@@ -173,14 +143,12 @@
       "role": "Contributor",
       "summary": "Regular contributions include reviewing, implementing, and testing core components and additions to the library",
       "description": "React UI components library with a refreshed Windows 95 style",
-      "highlights": [
-        "Testing w/ Jest/Enzyme", "CI/CD", "Component design and implementation"
-      ],
+      "highlights": [],
       "keywords": ["React", "UI", "Github", "library"]
     },
     {
       "title": "all-contributors-cli",
-      "start": "2018-06",
+      "start": "2018-06-01",
       "category": "FOSS",
       "url": "https://allcontributors.org/",
       "repo": "https://github.com/all-contributors/all-contributors-cli",
@@ -188,14 +156,12 @@
       "role": "Contributor",
       "summary": "Contributions include reviewing, implementing, and testing core components and additions to the library",
       "description": "Tool to help automate adding contributor acknowledgements according to the all-contributors specification",
-      "highlights": [
-        "Usability enhancement", "Bugfixes", "Feature addition"
-      ],
+      "highlights": [],
       "keywords": ["React", "UI", "Github", "library"]
     },
     {
       "title": "ReactStateMuseum",
-      "start": "2018-05",
+      "start": "2018-05-01",
       "category": "FOSS",
       "url": "https://github.com/GantMan/ReactStateMuseum",
       "repo": "https://github.com/GantMan/ReactStateMuseum",
@@ -203,9 +169,7 @@
       "role": "Contributor",
       "summary": "Setup all-contributors script pipeline and automation",
       "description": "A whirlwind tour of React state management systems by example",
-      "highlights": [
-        "Community", "Feature addition"
-      ],
+      "highlights": [],
       "keywords": ["React", "UI", "Github", "library"]
     }
   ],
