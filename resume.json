@@ -122,11 +122,11 @@
         "end": "2016-09-01",
         "url": "https://e-mc2.com/",
         "location": "Los Angeles",
-        "keywords": ["Javascript", "HTML", "CSS", "Gulp", "Node", "Email", "Publishing"],
+        "keywords": ["Javascript", "HTML", "CSS", "AWS", "Email", "Publishing"],
         "highlights": [
-          "Build responsive, modular, and reusable views following CSS, HTML, and JavaScript best-practices",
-          "Javascript Development: Author vanilla javascript and jQuery across campaigns w/ a 200% impact",
-          "HTML5 + CSS3: Mobile-first, responsive pages in Sass, BEM, and SMACSS for optimal maintainability"
+          "Developed landing pages, funnel conversion testing and user flows",
+          "Assisted with maintenance, expansion, and scaling of Tribune's growth and campaign systems",
+          "Significant experience deploying customer facing products in vanilla javascript, html, and css"
         ]
       }
     ]
