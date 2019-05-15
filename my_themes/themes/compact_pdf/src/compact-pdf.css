@@ -1,6 +1,6 @@
 html, body, main, section, header, ul, p, h1, h2, h3 {
   font-family: {{{fontList 'default'}}};
-  font-size: 12px;
+  font-size: 14px;
   margin: 0; padding: 0;
   display: block;
 }
