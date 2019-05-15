@@ -144,7 +144,7 @@
       "summary": "Regular contributions include reviewing, implementing, and testing core components and additions to the library",
       "description": "React UI components library with a refreshed Windows 95 style",
       "highlights": [],
-      "keywords": ["React", "UI", "Github", "library"]
+      "keywords": ["React,", "UI,", "Components"]
     },
     {
       "title": "all-contributors-cli",
@@ -157,7 +157,7 @@
       "summary": "Contributions include reviewing, implementing, and testing core components and additions to the library",
       "description": "Tool to help automate adding contributor acknowledgements according to the all-contributors specification",
       "highlights": [],
-      "keywords": ["React", "UI", "Github", "library"]
+      "keywords": ["Node,", "CLI,", "Tooling"]
     },
     {
       "title": "ReactStateMuseum",
@@ -170,7 +170,7 @@
       "summary": "Setup all-contributors script pipeline and automation",
       "description": "A whirlwind tour of React state management systems by example",
       "highlights": [],
-      "keywords": ["React", "UI", "Github", "library"]
+      "keywords": ["React,", "UI,", "Documentation"]
     }
   ],
 
