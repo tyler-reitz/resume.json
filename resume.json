@@ -188,7 +188,8 @@
         "summary": "",
         "keywords": [],
         "highlights": []
-      },      {
+      },
+      {
         "institution": "Bloc.io",
         "location": "San Francisco, CA",
         "url": "http://bloc.io/",
@@ -233,67 +234,75 @@
     "sets": [
 
       {
-        "name": "Isomorphic",
+        "name": "Languages",
         "level": "advanced",
         "skills": [
           "Javascript",
-          "Es6+",
-          "React",
-          "Redux",
-          "GraphQL",
-          "TDD",
-          "Mocha",
-          "Jest"
+          "Typescript",
+          "Node",
+          "Python",
+          "Go",
+          "C/C++"
         ]
       },
-
+      
       {
         "name": "Front-end",
         "level": "advanced",
         "skills": [
           "HTML",
-          "DOM",
-          "Browser APIs",
           "CSS",
-          "Sass",
-          "PostCSS",
+          "Sass/Less",
           "CSS-in-JS",
           "Babel",
           "Webpack"
         ]
       },
-
       {
-        "name": "Back-end",
+        "name": "Frameworks & Architectures",
         "level": "intermediate",
         "skills": [
-          "Node",
-          "Npm",
+          "React",
+          "Redux",
+          "GraphQL",
+          "Apollo",
           "Express",
-          "SQL/noSQL",
-          "Mongodb",
-          "Mongoose",
-          "Mysql",
-          "Sequelize",
-          "ORMs",
+          "Flask",
+          "Django",
+          "API",
           "REST",
-          "MVC"
+          "MVC/MVVM"
         ]
       },
-
-
       {
-        "name": "DevOps",
+        "name": "Databases",
         "level": "intermediate",
         "skills": [
+          "SQL",
+          "NOSQL",
+          "Postgrs",
+          "Mongo",
+          "Redis"
+        ]
+      },
+      {
+        "name": "Platforms",
+        "level": "advanced",
+        "skills": [
+          "Linux",
+          "AWS",
+          "GCP",
+          "Azure",
           "Containers",
           "Docker",
-          "VCS",
+          "Kubernetes",
+          "Security",
           "Git",
           "Github",
           "CI/CD",
-          "AWS",
-          "Cloud Providers"
+          "Jenkins",
+          "Circle",
+          "Travis"
         ]
       }
 
