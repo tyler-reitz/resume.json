@@ -66,19 +66,17 @@
         "position": "Front End Developer",
         "employer": "Further",
         "summary": "Further is a Los Angeles-based branding, creative and digital strategy agency specialized in custom web design, social media, brand & product development, native/digital advertising and search engine marketing.",
-        "start": "2018-01-1",
+        "start": "2018-01-01",
         "end": "2018-08-01",
-        "url": "",
+        "url": "http://furtheragency.com/",
         "location": "Pasadena",
         "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React"],
         "highlights": [
-          "initiated git version control where there was none before",
-          "basic linux server administration",
-          "take static designs to complete coded, tested and launched websites", 
-          "slice PSD designs with pixel perfect implementation", 
-          "large focus on UX with innovative animation touches", 
-          "shopify customization/theming (Liquid a +++), Wordpress theming and debugging",
-          "general website upkeep and maintenance"
+          "Worked with design, content and sales teams to develop client infrastructure",
+          "Designed, Implemented and maintained current web applications, API, and new features/project",
+          "Developed reusable front-end libraries and components",
+          "Identified and communicated front-end best practices",
+          "basic linux server administration"
         ]
       },
       {
