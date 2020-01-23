@@ -212,7 +212,6 @@
         "level": "advanced",
         "skills": [
           "Javascript",
-          "Typescript",
           "Node",
           "Python",
           "Go",
@@ -239,7 +238,6 @@
           "React",
           "Redux",
           "GraphQL",
-          "Apollo",
           "Express",
           "Flask",
           "Django",
@@ -254,7 +252,7 @@
         "skills": [
           "SQL",
           "NOSQL",
-          "Postgrs",
+          "Postgres",
           "Mongo",
           "Redis"
         ]
@@ -273,10 +271,7 @@
           "Security",
           "Git",
           "Github",
-          "CI/CD",
-          "Jenkins",
-          "Circle",
-          "Travis"
+          "CI/CD"
         ]
       }
 
