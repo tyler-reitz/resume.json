@@ -148,19 +148,6 @@
 
   "projects": [
     {
-      "title": "React95",
-      "start": "2019-04-01",
-      "category": "FOSS",
-      "url": "https://react95.io/",
-      "repo": "https://github.com/arturbien/React95",
-      "media": [],
-      "role": "Contributor",
-      "summary": "Regular contributions include reviewing, implementing, and testing core components and additions to the library",
-      "description": "React UI components library with a refreshed Windows 95 style",
-      "highlights": [],
-      "keywords": ["React,", "UI,", "Components"]
-    },
-    {
       "title": "all-contributors-cli",
       "start": "2018-06-01",
       "category": "FOSS",
