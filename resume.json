@@ -63,6 +63,23 @@
     "summary": "~3 years Javascript Development experience in startups, agencies, and enterprise.",
     "history": [
       {
+        "position": "Software Engineer",
+        "employer": "Walmart Labs",
+        "summary": "As a software engineer on the Partner and Merchant Technoology teams I helped develop web applications for Walmart's buyers and merchants enabling them to make decisions about what's sold in our stores and online.",
+        "start": "2018-07-01",
+        "end": "2018-07-01",
+        "url": "https://www.walmartlabs.com",
+        "location": "Sunnyvale",
+        "keywords": ["Javascript", "HTML", "CSS", "Node", "Express", "React", "Redux", "REST", "API", "Enterprise", "SPA", "frameworks", "Jenkins"],
+        "highlights": [
+          "Contributed to building capabilities aligned with business strategy that allow efficient workflows, bulk and focused maintenance, and analytics for merchants.",
+          "Worked on cutting edge Javascript technologies to develop maintainable, performant, and elegant features in an Agile, incremental fashion",
+          "Developed applications againts a constantly shifting and evolving suite of globally distributed APIs and services.",
+          "Developed components that added to the pool of re-usable, and platform capabilities for the UI teams.",
+          "Also worked as a full-stack developer based in business requirements needed to work with backend teams."
+        ]
+      },
+      {
         "position": "Front End Developer",
         "employer": "Further",
         "summary": "Further is a Los Angeles-based branding, creative and digital strategy agency specialized in custom web design, social media, brand & product development, native/digital advertising and search engine marketing.",
